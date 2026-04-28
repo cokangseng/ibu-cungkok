@@ -11,7 +11,7 @@
 <title>LANDAKTOTO - Situs Toto Macau Online Akses Resmi Paling Dicari 2026</title>
 <meta name="description" content="Sebagai situs toto Macau online akses resmi paling dicari 2026, LANDAKTOTO menawarkan sistem stabil, transaksi aman, dan pasaran lengkap. Pilihan terbaik untuk member yang mengutamakan kenyamanan dan kepercayaan bermain online.">
   	<meta name="keywords" content="LANDAKTOTO, landaktoto login, landaktoto daftar, landaktoto alternatif, login landaktoto, alternatif landaktoto, daftar landaktoto, situs landaktoto, togel landaktoto">
-<link rel="canonical" href="https://cz.nuczu.edu.ua/">
+<link rel="canonical" href="https://passa.nuczu.edu.ua/en/">
 <link rel="amphtml" href="hhttps://ibu-cungkok.pages.dev/cz.nuczu.edu.ua/amp">
 <link rel="alternate" href="hhttps://ibu-cungkok.pages.dev/cz.nuczu.edu.ua/amp"> 
 <link rel="alternate" href="hhttps://ibu-cungkok.pages.dev/cz.nuczu.edu.ua/amp" hreflang="id">
@@ -33,7 +33,7 @@
 <meta property="og:description" content="Sebagai situs toto Macau online akses resmi paling dicari 2026, LANDAKTOTO menawarkan sistem stabil, transaksi aman, dan pasaran lengkap. Pilihan terbaik untuk member yang mengutamakan kenyamanan dan kepercayaan bermain online.">
 <meta property="og:price:amount" content="85,000">
 <meta property="og:price:currency" content="IDR">
-<meta property="og:url" content="https://cz.nuczu.edu.ua/"> 
+<meta property="og:url" content="https://passa.nuczu.edu.ua/en/"> 
 <meta property="og:site_name" content="LANDAKTOTO">
 <meta name="twitter:site" content="@LANDAKTOTO">
 <meta name="twitter:card" content="summary">
@@ -150,7 +150,7 @@
 <script src="//code.jquery.com/ui/1.13.0/jquery-ui.min.js"></script>
     <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');
 <meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/15896833/digital_wallets/dialog">
-<link rel="alternate" type="application/json+oembed" href="https://cz.nuczu.edu.ua/.oembed">
+<link rel="alternate" type="application/json+oembed" href="https://passa.nuczu.edu.ua/en/.oembed">
 <script async="async" src="/checkouts/internal/preloads.js?locale=en-ID"></script>
 <script id="shopify-features" type="application/json">{"accessToken":"d2e176e59f6658d505623TOTO TOGEL 4D6249b3ab4","betas":["rich-media-storefront-analytics"],"domain":"outerbloom.com","predictiveSearch":true,"shopId":15896833,"locale":"en"}</script>
 <script>var Shopify = Shopify || {};
@@ -464,7 +464,7 @@ await import("https://outerbloom.com/cdn/shopifycloud/shop-js/modules/v2/chunk.m
   "category": "SITUS HK",
   "offers": {
     "@type": "Offer",
-    "url": "https://cz.nuczu.edu.ua/",
+    "url": "https://passa.nuczu.edu.ua/en/",
     "priceCurrency": "IDR",
     "price": "5000",
     "priceValidUntil": "2027-12-31",
@@ -668,43 +668,43 @@ await import("https://outerbloom.com/cdn/shopifycloud/shop-js/modules/v2/chunk.m
       "@type": "ListItem",
       "position": 1,
       "name": "LANDAKTOTO",
-      "item": "https://cz.nuczu.edu.ua/"  // Ganti dengan domain asli kamu
+      "item": "https://passa.nuczu.edu.ua/en/"  // Ganti dengan domain asli kamu
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "SITUS TOTO",
-      "item": "https://cz.nuczu.edu.ua/"  // Root atau homepage
+      "item": "https://passa.nuczu.edu.ua/en/"  // Root atau homepage
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "SITUS HK POOLS",
-      "item": "https://cz.nuczu.edu.ua/"  // Asumsi URL, sesuaikan
+      "item": "https://passa.nuczu.edu.ua/en/"  // Asumsi URL, sesuaikan
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "SITUS HK",
-      "item": "https://cz.nuczu.edu.ua/"
+      "item": "https://passa.nuczu.edu.ua/en/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "BANDAR TOGEL",
-      "item": "https://cz.nuczu.edu.ua/"
+      "item": "https://passa.nuczu.edu.ua/en/"
     },
     {
       "@type": "ListItem",
       "position": 6,
       "name": "TOTO",
-      "item": "https://cz.nuczu.edu.ua/"
+      "item": "https://passa.nuczu.edu.ua/en/"
     },
     {
       "@type": "ListItem",
       "position": 7,
       "name": "LANDAKTOTO - Situs Toto Macau Online Akses Resmi Paling Dicari 2026",
-      "item": "https://cz.nuczu.edu.ua/"
+      "item": "https://passa.nuczu.edu.ua/en/"
     }
   ]
 }
@@ -736,9 +736,9 @@ await import("https://outerbloom.com/cdn/shopifycloud/shop-js/modules/v2/chunk.m
       "@graph": [
         {
           "@type": "Organization",
-          "@id": "https://cz.nuczu.edu.ua/#organization",
+          "@id": "https://passa.nuczu.edu.ua/en/#organization",
           "name": "LANDAKTOTO",
-          "url": "https://cz.nuczu.edu.ua/",
+          "url": "https://passa.nuczu.edu.ua/en/",
           "logo": {
             "@type": "ImageObject",
             "url": "https://landaktoto.dataklmsad903.site/images/setting-logo/1/SqPt4TYy6QGzXvR3.webp",
@@ -760,27 +760,27 @@ await import("https://outerbloom.com/cdn/shopifycloud/shop-js/modules/v2/chunk.m
         },
         {
           "@type": "WebSite",
-          "@id": "https://cz.nuczu.edu.ua/#website",
-          "url": "https://cz.nuczu.edu.ua/",
+          "@id": "https://passa.nuczu.edu.ua/en/#website",
+          "url": "https://passa.nuczu.edu.ua/en/",
           "name": "LANDAKTOTO",
           "description": "Sebagai situs toto Macau online akses resmi paling dicari 2026, LANDAKTOTO menawarkan sistem stabil, transaksi aman, dan pasaran lengkap. Pilihan terbaik untuk member yang mengutamakan kenyamanan dan kepercayaan bermain online.",
           "publisher": {
-            "@id": "https://cz.nuczu.edu.ua/#organization"
+            "@id": "https://passa.nuczu.edu.ua/en/#organization"
           },
           "potentialAction": {
             "@type": "SearchAction",
-            "target": "https://cz.nuczu.edu.ua/search?q={search_term_string}",
+            "target": "https://passa.nuczu.edu.ua/en/search?q={search_term_string}",
             "query-input": "required name=search_term_string"
           }
         },
         {
           "@type": "WebPage",
-          "@id": "https://cz.nuczu.edu.ua/#webpage",
-          "url": "https://cz.nuczu.edu.ua/",
+          "@id": "https://passa.nuczu.edu.ua/en/#webpage",
+          "url": "https://passa.nuczu.edu.ua/en/",
           "inLanguage": "id-ID",
           "name": "LANDAKTOTO",
           "isPartOf": {
-            "@id": "https://cz.nuczu.edu.ua/#website"
+            "@id": "https://passa.nuczu.edu.ua/en/#website"
           },
           "datePublished": "2026-01-01T00:00:00+07:00",
           "dateModified": "2026-03-08T06:56:00+07:00",
@@ -1136,35 +1136,35 @@ ul { list-style: none; }
 <div class="country-grid">
     <div class="country-col">
         <h4>Asia & Oseania</h4>
-        <a href="https://cz.nuczu.edu.ua/">
+        <a href="https://passa.nuczu.edu.ua/en/">
             <svg class="flag-icon" viewBox="0 0 640 480"><path fill="#e00" d="M0 0h640v240H0z"/></path><path fill="#fff" d="M0 240h640v240H0z"/></path></svg>
             Indonesia
         </a>
-        <a href="https://cz.nuczu.edu.ua/">
+        <a href="https://passa.nuczu.edu.ua/en/">
             <svg class="flag-icon" viewBox="0 0 640 480"><path fill="#000080" d="M0 0h320v240H0z"/></path><path fill="#fff" d="M0 240h640v240H0z"/></path><path fill="#cc0000" d="M320 0h320v34.3H320zM320 68.6h320v34.3H320zM320 137.1h320v34.3H320zM320 205.7h320v34.3H320zM0 274.3h640v34.3H0zM0 342.9h640v34.3H0zM0 411.4h640v34.3H0z"/></path><circle cx="160" cy="120" r="90" fill="#fc0"/></circle><circle cx="185" cy="120" r="80" fill="#000080"/></circle><path fill="#fc0" d="M211.5 120l36.3 11.8L236 98l23.5-29.8-38 3.5L200 40l-8.6 37.1-38-3.5 23.5 29.8-11.8 33.8z"/></path></svg>
             Malaysia
         </a>
-        <a href="https://cz.nuczu.edu.ua/">
+        <a href="https://passa.nuczu.edu.ua/en/">
             <svg class="flag-icon" viewBox="0 0 640 480"><path fill="#ed2939" d="M0 0h640v240H0z"/></path><path fill="#fff" d="M0 240h640v240H0z"/></path><path fill="#fff" d="M190 40a90 90 0 100 180 90 90 0 010-180z"/></path><path fill="#fff" d="M200 85l10 30h30l-25 20 10 30-25-20-25 20 10-30-25-20h30zM250 115l10 30h30l-25 20 10 30-25-20-25 20 10-30-25-20h30zM150 115l10 30h30l-25 20 10 30-25-20-25 20 10-30-25-20h30zM225 155l10 30h30l-25 20 10 30-25-20-25 20 10-30-25-20h30zM175 155l10 30h30l-25 20 10 30-25-20-25 20 10-30-25-20h30z"/></path></svg>
             Singapura
         </a>
-        <a href="https://cz.nuczu.edu.ua/">
+        <a href="https://passa.nuczu.edu.ua/en/">
             <svg class="flag-icon" viewBox="0 0 640 480"><path fill="#fff" d="M0 0h640v480H0z"/></path><circle cx="320" cy="240" r="144" fill="#bc002d"/></circle></svg>
             Jepang
         </a>
-        <a href="https://cz.nuczu.edu.ua/">
+        <a href="https://passa.nuczu.edu.ua/en/">
             <svg class="flag-icon" viewBox="0 0 640 480"><path fill="#fff" d="M0 0h640v480H0z"/></path><g transform="rotate(-33.7 320 240)"><path fill="#c60c30" d="M320 120a120 120 0 010 240c66.3 0 120-53.7 120-120S386.3 120 320 120z"/></path><path fill="#003478" d="M320 120a120 120 0 000 240 60 60 0 010-120 60 60 0 000-120z"/></path><path d="M100 190h120v20H100zm0-40h120v20H100zm0-40h120v20H100zM420 270h120v20H420zm0 40h120v20H420zm0 40h120v20H420z"/></path><path d="M100 270h50v20h-50zm70 0h50v20h-50zm-70 40h50v20h-50zm70 0h50v20h-50zm-70 40h120v20H100zM420 110h50v20h-50zm70 0h50v20h-50zm-70 40h120v20H420zm0 40h50v20h-50zm70 0h50v20h-50z"/></path></g></svg>
             Korea Selatan
         </a>
-        <a href="https://cz.nuczu.edu.ua/">
+        <a href="https://passa.nuczu.edu.ua/en/">
             <svg class="flag-icon" viewBox="0 0 640 480"><path fill="#ee1c25" d="M0 0h640v480H0z"/></path><path fill="#ff0" d="M160 180l17.6-54.3L223.8 160h-57.1l46.2-34.3L160 80l-46.9 45.7 46.2 34.3H102.4l46.2-34.3zM280 80l7.3-22.6 19.1 14.3h-23.7l19.2-14.3-19.5 19.1L301.6 57.5H278l19.2-14.3zM320 140l7.3-22.6 19.1 14.3h-23.7l19.2-14.3-19.5 19.1 19.2-19.1H318l19.2-14.3zM300 220l7.3-22.6 19.1 14.3h-23.7l19.2-14.3-19.5 19.1 19.2-19.1H298l19.2-14.3zM220 280l7.3-22.6 19.1 14.3h-23.7l19.2-14.3-19.5 19.1 19.2-19.1H218l19.2-14.3z"/></path></svg>
             Tiongkok
         </a>
-        <a href="https://cz.nuczu.edu.ua/">
+        <a href="https://passa.nuczu.edu.ua/en/">
             <svg class="flag-icon" viewBox="0 0 640 480"><path fill="#f93" d="M0 0h640v160H0z"/></path><path fill="#fff" d="M0 160h640v160H0z"/></path><path fill="#128807" d="M0 320h640v160H0z"/></path><g transform="translate(320 240)"><circle r="72" fill="#008"/></circle><circle r="60.5" fill="#fff"/></circle><circle r="12" fill="#008"/></circle><g id="b"><g id="a"><path fill="#008" d="M0-60.5L3.4-12 0-3l-3.4-9z"/></path><circle r="3" fill="#008" transform="translate(0 -58)"/></circle></g><use transform="rotate(15)" href="#a"/></use><use transform="rotate(30)" href="#a"/></use><use transform="rotate(45)" href="#a"/></use></g><use transform="rotate(60)" href="#b"/></use><use transform="rotate(120)" href="#b"/></use><use transform="rotate(180)" href="#b"/></use><use transform="rotate(240)" href="#b"/></use><use transform="rotate(300)" href="#b"/></use></g></svg>
             India
         </a>
-        <a href="https://cz.nuczu.edu.ua/">
+        <a href="https://passa.nuczu.edu.ua/en/">
             <svg class="flag-icon" viewBox="0 0 640 480"><path fill="#00008b" d="M0 0h640v480H0z"/></path><path stroke="#fff" stroke-width="60" d="M0 0l320 240M320 0L0 240"/></path><path stroke="#c00" stroke-width="40" d="M0 0l320 240M320 0L0 240"/></path><path fill="#fff" d="M130 0h60v240h-60zM0 90h320v60H0z"/></path><path fill="#c00" d="M140 0h40v240h-40zM0 100h320v40H0z"/></path><path fill="#fff" d="M160 360l13 36 38-3-28 25 15 35-38-23-38 23 15-35-28-25 38 3zM480 120l16 48 51-2-38 32 18 48-47-30-47 30 18-48-38-32 51 2zM560 260l9 25 27-2-21 17 10 26-25-17-25 17 10-26-21-17 27 2zM480 360l10 32 34-1-25 22 13 32-32-21-32 21 13-32-25-22 34 1zM360 220l7 19 20-2-16 13 8 20-19-12-19 12 8-20-16-13 20 2zM400 400l6 17 18-1-14 11 6 18-16-11-16 11 6-18-14-11 18 1z"/></path></svg>
             Australia
         </a>
@@ -1172,35 +1172,35 @@ ul { list-style: none; }
 
     <div class="country-col">
         <h4>Eropa</h4>
-        <a href="https://cz.nuczu.edu.ua/">
+        <a href="https://passa.nuczu.edu.ua/en/">
             <svg class="flag-icon" viewBox="0 0 640 480"><path fill="#012169" d="M0 0h640v480H0z"/></path><path fill="#FFF" d="M75 0l244 181L562 0h78v62L400 241l240 178v61h-80L320 301 81 480H0v-60l239-178L0 64V0h75z"/></path><path fill="#C8102E" d="M424 281l216 159v40L369 281h55zm-184 20L24 480H0v-16l240-184v21zM640 0v3L391 191l2-44L590 0h50zM0 0l239 176h-60L0 42V0z"/></path><path fill="#FFF" d="M241 0v480h160V0H241zM0 160v160h640V160H0z"/></path><path fill="#C8102E" d="M0 193v96h640v-96H0zM273 0v480h96V0h-96z"/></path></svg>
             Inggris Raya
         </a>
-        <a href="https://cz.nuczu.edu.ua/">
+        <a href="https://passa.nuczu.edu.ua/en/">
             <svg class="flag-icon" viewBox="0 0 640 480"><path fill="#fc0" d="M0 320h640v160H0z"/></path><path fill="#000" d="M0 0h640v160H0z"/></path><path fill="#f00" d="M0 160h640v160H0z"/></path></svg>
             Jerman
         </a>
-        <a href="https://cz.nuczu.edu.ua/">
+        <a href="https://passa.nuczu.edu.ua/en/">
             <svg class="flag-icon" viewBox="0 0 640 480"><path fill="#fff" d="M0 0h640v480H0z"/></path><path fill="#002654" d="M0 0h213.3v480H0z"/></path><path fill="#ce1126" d="M426.7 0H640v480H426.7z"/></path></svg>
             Prancis
         </a>
-        <a href="https://cz.nuczu.edu.ua/">
+        <a href="https://passa.nuczu.edu.ua/en/">
             <svg class="flag-icon" viewBox="0 0 640 480"><path fill="#009246" d="M0 0h213.3v480H0z"/></path><path fill="#fff" d="M213.3 0h213.4v480H213.3z"/></path><path fill="#ce2b37" d="M426.7 0H640v480H426.7z"/></path></svg>
             Italia
         </a>
-        <a href="https://cz.nuczu.edu.ua/">
+        <a href="https://passa.nuczu.edu.ua/en/">
             <svg class="flag-icon" viewBox="0 0 640 480"><path fill="#c60b1e" d="M0 0h640v480H0z"/></path><path fill="#ffc400" d="M0 120h640v240H0z"/></path></svg>
             Spanyol
         </a>
-        <a href="https://cz.nuczu.edu.ua/">
+        <a href="https://passa.nuczu.edu.ua/en/">
             <svg class="flag-icon" viewBox="0 0 640 480"><path fill="#21468b" d="M0 0h640v480H0z"/></path><path fill="#fff" d="M0 0h640v320H0z"/></path><path fill="#ae1c28" d="M0 0h640v160H0z"/></path></svg>
             Belanda
         </a>
-        <a href="https://cz.nuczu.edu.ua/">
+        <a href="https://passa.nuczu.edu.ua/en/">
             <svg class="flag-icon" viewBox="0 0 640 480"><path fill="#fff" d="M0 0h640v480H0z"/></path><path fill="#d52b1e" d="M0 320h640v160H0z"/></path><path fill="#0039a6" d="M0 160h640v160H0z"/></path></svg>
             Rusia
         </a>
-        <a href="https://cz.nuczu.edu.ua/">
+        <a href="https://passa.nuczu.edu.ua/en/">
             <svg class="flag-icon" viewBox="0 0 640 480"><path fill="#d52b1e" d="M0 0h640v480H0z"/></path><path fill="#fff" d="M270 90h100v300H270zM120 190h400v100H120z"/></path></svg>
             Swiss
         </a>
@@ -1208,35 +1208,35 @@ ul { list-style: none; }
 
     <div class="country-col">
         <h4>Amerika</h4>
-        <a href="https://cz.nuczu.edu.ua/">
+        <a href="https://passa.nuczu.edu.ua/en/">
             <svg class="flag-icon" viewBox="0 0 640 480"><path fill="#bd3d44" d="M0 0h640v480H0z"/></path><path fill="#fff" d="M0 37h640v37H0zM0 111h640v37H0zM0 185h640v37H0zM0 258h640v37H0zM0 332h640v37H0zM0 406h640v37H0z"/></path><path fill="#192f5d" d="M0 0h258v258H0z"/></path><g fill="#fff"><g id="c"><path id="b" d="M16 11l-5 14 11-8H9l12 8z"/></path><use href="#b" y="37"/></use><use href="#b" y="74"/></use><use href="#b" y="111"/></use><use href="#b" y="148"/></use><use href="#b" y="185"/></use><use href="#b" y="221"/></use></g><use href="#c" x="37"/></use><use href="#c" x="74"/></use><use href="#c" x="111"/></use><use href="#c" x="148"/></use><use href="#c" x="185"/></use><use href="#c" x="221"/></use></g></svg>
             Amerika Serikat
         </a>
-        <a href="https://cz.nuczu.edu.ua/">
+        <a href="https://passa.nuczu.edu.ua/en/">
             <svg class="flag-icon" viewBox="0 0 640 480"><path fill="#d52b1e" d="M0 0h640v480H0z"/></path><path fill="#fff" d="M160 0h320v480H160z"/></path><path fill="#d52b1e" d="M320 240l20-40 40-10-15-20 10-30-30 15-15-40-15 40-30-15 10 30-15 20 40 10 20 40z"/></path></svg>
             Kanada
         </a>
-        <a href="https://cz.nuczu.edu.ua/">
+        <a href="https://passa.nuczu.edu.ua/en/">
             <svg class="flag-icon" viewBox="0 0 640 480"><path fill="#fff" d="M0 0h640v480H0z"/></path><path fill="#006847" d="M0 0h213.3v480H0z"/></path><path fill="#ce1126" d="M426.7 0H640v480H426.7z"/></path><circle cx="320" cy="240" r="50" fill="#a4724b"/></circle></svg>
             Meksiko
         </a>
-        <a href="https://cz.nuczu.edu.ua/">
+        <a href="https://passa.nuczu.edu.ua/en/">
             <svg class="flag-icon" viewBox="0 0 640 480"><path fill="#009b3a" d="M0 0h640v480H0z"/></path><path fill="#fedf00" d="M320 40L40 240l280 200 280-200z"/></path><circle cx="320" cy="240" r="100" fill="#002776"/></circle></svg>
             Brasil
         </a>
-        <a href="https://cz.nuczu.edu.ua/">
+        <a href="https://passa.nuczu.edu.ua/en/">
             <svg class="flag-icon" viewBox="0 0 640 480"><path fill="#74acdf" d="M0 0h640v480H0z"/></path><path fill="#fff" d="M0 160h640v160H0z"/></path><circle cx="320" cy="240" r="50" fill="#f6b40e"/></circle></svg>
             Argentina
         </a>
-        <a href="https://cz.nuczu.edu.ua/">
+        <a href="https://passa.nuczu.edu.ua/en/">
             <svg class="flag-icon" viewBox="0 0 640 480"><path fill="#fff" d="M0 0h640v480H0z"/></path><path fill="#d52b1e" d="M0 240h640v240H0z"/></path><path fill="#0039a6" d="M0 0h213.3v240H0z"/></path><path fill="#fff" d="M106.6 60l20 60h60l-45 35 15 60-50-35-50 35 15-60-45-35h60z"/></path></svg>
             Chili
         </a>
-        <a href="https://cz.nuczu.edu.ua/">
+        <a href="https://passa.nuczu.edu.ua/en/">
             <svg class="flag-icon" viewBox="0 0 640 480"><path fill="#fcd116" d="M0 0h640v480H0z"/></path><path fill="#003893" d="M0 240h640v120H0z"/></path><path fill="#ce1126" d="M0 360h640v120H0z"/></path></svg>
             Kolombia
         </a>
-        <a href="https://cz.nuczu.edu.ua/">
+        <a href="https://passa.nuczu.edu.ua/en/">
             <svg class="flag-icon" viewBox="0 0 640 480"><path fill="#d91023" d="M0 0h640v480H0z"/></path><path fill="#fff" d="M213.3 0h213.4v480H213.3z"/></path></svg>
             Peru
         </a>
@@ -1244,35 +1244,35 @@ ul { list-style: none; }
 
     <div class="country-col">
         <h4>Timur Tengah & Afrika</h4>
-        <a href="https://cz.nuczu.edu.ua/">
+        <a href="https://passa.nuczu.edu.ua/en/">
             <svg class="flag-icon" viewBox="0 0 640 480"><path fill="#fff" d="M0 0h640v480H0z"/></path><path fill="#00732f" d="M0 0h640v160H0z"/></path><path fill="#000" d="M0 320h640v160H0z"/></path><path fill="#f00" d="M0 0h160v480H0z"/></path></svg>
             Uni Emirat Arab
         </a>
-        <a href="https://cz.nuczu.edu.ua/">
+        <a href="https://passa.nuczu.edu.ua/en/">
             <svg class="flag-icon" viewBox="0 0 640 480"><path fill="#138808" d="M0 0h640v480H0z"/></path><path fill="#fff" d="M200 240h240v10H200z"/></path></svg>
             Arab Saudi
         </a>
-        <a href="https://cz.nuczu.edu.ua/">
+        <a href="https://passa.nuczu.edu.ua/en/">
             <svg class="flag-icon" viewBox="0 0 640 480"><path fill="#8a1538" d="M0 0h640v480H0z"/></path><path fill="#fff" d="M0 0h160v480H0zM160 0l40 26-40 26 40 26-40 26 40 26-40 26 40 26-40 26 40 26-40 26v20z"/></path></svg>
             Qatar
         </a>
-        <a href="https://cz.nuczu.edu.ua/">
+        <a href="https://passa.nuczu.edu.ua/en/">
             <svg class="flag-icon" viewBox="0 0 640 480"><path fill="#001489" d="M0 0h640v480H0z"/></path><path fill="#fff" d="M0 80l240 160L0 400h100l240-160L100 80zm540 0L300 240l240 160h100L400 240 640 80z"/></path><path fill="#007aTOTO TOGEL 4D" d="M0 120l180 120L0 360h60l180-120L60 120zm580 0L400 240l180 120h60L460 240 640 120z"/></path><path fill="#ffb81c" d="M0 160l120 80-120 80h40l120-80L40 160zm600 0L480 240l120 80h40L520 240l120-80z"/></path><path fill="#000" d="M0 200l60 40-60 40h20l60-40L20 200zm620 0l-60 40 60 40h20l-60-40 60-40z"/></path><path fill="#da291c" d="M0 0h640v160H0z"/></path></svg>
             Afrika Selatan
         </a>
-        <a href="https://cz.nuczu.edu.ua/">
+        <a href="https://passa.nuczu.edu.ua/en/">
             <svg class="flag-icon" viewBox="0 0 640 480"><path fill="#fff" d="M0 0h640v480H0z"/></path><path fill="#ce1126" d="M0 0h640v160H0z"/></path><path fill="#000" d="M0 320h640v160H0z"/></path><circle cx="320" cy="240" r="40" fill="#c9ab6e"/></circle></svg>
             Mesir
         </a>
-        <a href="https://cz.nuczu.edu.ua/">
+        <a href="https://passa.nuczu.edu.ua/en/">
             <svg class="flag-icon" viewBox="0 0 640 480"><path fill="#008751" d="M0 0h640v480H0z"/></path><path fill="#fff" d="M213.3 0h213.4v480H213.3z"/></path></svg>
             Nigeria
         </a>
-        <a href="https://cz.nuczu.edu.ua/">
+        <a href="https://passa.nuczu.edu.ua/en/">
             <svg class="flag-icon" viewBox="0 0 640 480"><path fill="#c1272d" d="M0 0h640v480H0z"/></path><path fill="none" stroke="#006233" stroke-width="12" d="M320 150l70 215-180-130h220l-180 130z"/></path></svg>
             Maroko
         </a>
-        <a href="https://cz.nuczu.edu.ua/">
+        <a href="https://passa.nuczu.edu.ua/en/">
             <svg class="flag-icon" viewBox="0 0 640 480"><path fill="#fff" d="M0 0h640v480H0z"/></path><path fill="#0038b8" d="M0 40h640v60H0zM0 380h640v60H0z"/></path><path fill="none" stroke="#0038b8" stroke-width="15" d="M320 120l70 215-180-130h220l-180 130z"/></path></svg>
             Israel
         </a>
@@ -1287,7 +1287,7 @@ ul { list-style: none; }
 
     <header class="main-header">
         <div class="container header-inner">
-<a href="https://cz.nuczu.edu.ua/"><img src="https://landaktoto.dataklmsad903.site/images/setting-logo/1/SqPt4TYy6QGzXvR3.webp" alt="LANDAKTOTO" style="height:60px; width:140px;" class="initial loading" data-was-processed="true">
+<a href="https://passa.nuczu.edu.ua/en/"><img src="https://landaktoto.dataklmsad903.site/images/setting-logo/1/SqPt4TYy6QGzXvR3.webp" alt="LANDAKTOTO" style="height:60px; width:140px;" class="initial loading" data-was-processed="true">
          </a>            
             <form class="search-form">
                 <input type="text" placeholder="Carik Apa di LANDAKTOTO Hari Ini Palku??">
@@ -1314,7 +1314,7 @@ ul { list-style: none; }
         <div class="container nav-inner">
             <ul class="menu">
                 <li class="has-mega-menu">
-                    <a href="https://cz.nuczu.edu.ua/" class="all-cat-btn">☰ LANDAKTOTO </a>
+                    <a href="https://passa.nuczu.edu.ua/en/" class="all-cat-btn">☰ LANDAKTOTO </a>
                     <div class="mega-menu">
                         <div class="mega-grid">
                             <ul class="mega-col"><li class="mega-title">Komputer</li><li><a href="#">PC Rakitan</a></li><li><a href="#">Laptop</a></li><li><a href="#">Monitor</a></li><li><a href="#">Keyboard</a></li><li><a href="#">Mouse</a></li><li><a href="#">RAM</a></li><li><a href="#">VGA</a></li><li><a href="#">Motherboard</a></li><li><a href="#">Storage</a></li><li><a href="#">Cooling</a></li></ul>
@@ -1325,15 +1325,15 @@ ul { list-style: none; }
                         </div>
                     </div>
                 </li>
-                <li><a href="https://cz.nuczu.edu.ua/">SITUS TOTO</a></li>
-                <li><a href="https://cz.nuczu.edu.ua/">SITUS HK POOLS</a></li>
-                <li><a href="https://cz.nuczu.edu.ua/">SITUS HK</a></li>
-                <li><a href="https://cz.nuczu.edu.ua/">BANDAR TOGEL</a></li>
-                <li><a href="https://cz.nuczu.edu.ua/">TOGEL ONLINE</a></li>
-                <li><a href="https://cz.nuczu.edu.ua/">TOGEL TERPERCAYA</a></li>
-                <li><a href="https://cz.nuczu.edu.ua/">TOTO</a></li>
-                <li><a href="https://cz.nuczu.edu.ua/">TOTO TOGEL</a></li>
-                <li><a href="https://cz.nuczu.edu.ua/"></a></li>
+                <li><a href="https://passa.nuczu.edu.ua/en/">SITUS TOTO</a></li>
+                <li><a href="https://passa.nuczu.edu.ua/en/">SITUS HK POOLS</a></li>
+                <li><a href="https://passa.nuczu.edu.ua/en/">SITUS HK</a></li>
+                <li><a href="https://passa.nuczu.edu.ua/en/">BANDAR TOGEL</a></li>
+                <li><a href="https://passa.nuczu.edu.ua/en/">TOGEL ONLINE</a></li>
+                <li><a href="https://passa.nuczu.edu.ua/en/">TOGEL TERPERCAYA</a></li>
+                <li><a href="https://passa.nuczu.edu.ua/en/">TOTO</a></li>
+                <li><a href="https://passa.nuczu.edu.ua/en/">TOTO TOGEL</a></li>
+                <li><a href="https://passa.nuczu.edu.ua/en/"></a></li>
             </ul>
         </div>
     </nav>
@@ -1341,11 +1341,11 @@ ul { list-style: none; }
     <main>
         <div class="container">
             <ul class="breadcrumb motion-effect slide-up visible">
-                <li><a href="https://cz.nuczu.edu.ua/">LANDAKTOTO</a></li>
-                <li><a href="https://cz.nuczu.edu.ua/">SITUS TOTO</a></li>
-                <li><a href="https://cz.nuczu.edu.ua/">SITUS HK POOLS</a></li>
-                <li><a href="https://cz.nuczu.edu.ua/">SITUS HK</a></li>
-                <li><a href="https://cz.nuczu.edu.ua/">TOTO TOGEL 4D</a></li>
+                <li><a href="https://passa.nuczu.edu.ua/en/">LANDAKTOTO</a></li>
+                <li><a href="https://passa.nuczu.edu.ua/en/">SITUS TOTO</a></li>
+                <li><a href="https://passa.nuczu.edu.ua/en/">SITUS HK POOLS</a></li>
+                <li><a href="https://passa.nuczu.edu.ua/en/">SITUS HK</a></li>
+                <li><a href="https://passa.nuczu.edu.ua/en/">TOTO TOGEL 4D</a></li>
 
                 <li>TOTO</li>
             </ul>
@@ -1593,31 +1593,31 @@ ul { list-style: none; }
             <div class="footer-col">
                 <h4>Tentang Kami</h4>
                 <ul>
-                    <li><a href="https://cz.nuczu.edu.ua/">Profil Perusahaan</a></li><li><a href="https://cz.nuczu.edu.ua/">Visi & Misi</a></li><li><a href="https://cz.nuczu.edu.ua/">Sejarah</a></li><li><a href="https://cz.nuczu.edu.ua/">Karir</a></li><li><a href="https://cz.nuczu.edu.ua/">Berita</a></li><li><a href="https://cz.nuczu.edu.ua/">Kebijakan Privasi</a></li><li><a href="https://cz.nuczu.edu.ua/">Syarat & Ketentuan</a></li><li><a href="https://cz.nuczu.edu.ua/">Lokasi Toko</a></li><li><a href="https://cz.nuczu.edu.ua/">Kontak</a></li><li><a href="https://cz.nuczu.edu.ua/">Sitemap</a></li>
+                    <li><a href="https://passa.nuczu.edu.ua/en/">Profil Perusahaan</a></li><li><a href="https://passa.nuczu.edu.ua/en/">Visi & Misi</a></li><li><a href="https://passa.nuczu.edu.ua/en/">Sejarah</a></li><li><a href="https://passa.nuczu.edu.ua/en/">Karir</a></li><li><a href="https://passa.nuczu.edu.ua/en/">Berita</a></li><li><a href="https://passa.nuczu.edu.ua/en/">Kebijakan Privasi</a></li><li><a href="https://passa.nuczu.edu.ua/en/">Syarat & Ketentuan</a></li><li><a href="https://passa.nuczu.edu.ua/en/">Lokasi Toko</a></li><li><a href="https://passa.nuczu.edu.ua/en/">Kontak</a></li><li><a href="https://passa.nuczu.edu.ua/en/">Sitemap</a></li>
                 </ul>
             </div>
             <div class="footer-col">
                 <h4>Layanan Pelanggan</h4>
                 <ul>
-                    <li><a href="https://cz.nuczu.edu.ua/">Cara Pemesanan</a></li><li><a href="https://cz.nuczu.edu.ua/">Metode Pembayaran</a></li><li><a href="https://cz.nuczu.edu.ua/">Lacak Pengiriman</a></li><li><a href="https://cz.nuczu.edu.ua/">Kebijakan Retur</a></li><li><a href="https://cz.nuczu.edu.ua/">Klaim Garansi</a></li><li><a href="https://cz.nuczu.edu.ua/">Pusat Bantuan</a></li><li><a href="https://cz.nuczu.edu.ua/">FAQ</a></li><li><a href="https://cz.nuczu.edu.ua/">Hubungi Kami</a></li><li><a href="https://cz.nuczu.edu.ua/">Ulasan</a></li><li><a href="https://cz.nuczu.edu.ua/">Saran</a></li>
+                    <li><a href="https://passa.nuczu.edu.ua/en/">Cara Pemesanan</a></li><li><a href="https://passa.nuczu.edu.ua/en/">Metode Pembayaran</a></li><li><a href="https://passa.nuczu.edu.ua/en/">Lacak Pengiriman</a></li><li><a href="https://passa.nuczu.edu.ua/en/">Kebijakan Retur</a></li><li><a href="https://passa.nuczu.edu.ua/en/">Klaim Garansi</a></li><li><a href="https://passa.nuczu.edu.ua/en/">Pusat Bantuan</a></li><li><a href="https://passa.nuczu.edu.ua/en/">FAQ</a></li><li><a href="https://passa.nuczu.edu.ua/en/">Hubungi Kami</a></li><li><a href="https://passa.nuczu.edu.ua/en/">Ulasan</a></li><li><a href="https://passa.nuczu.edu.ua/en/">Saran</a></li>
                 </ul>
             </div>
             <div class="footer-col">
                 <h4>Pencarian Populer</h4>
                 <ul>
-                    <li><a href="https://cz.nuczu.edu.ua/">PC Gaming</a></li><li><a href="https://cz.nuczu.edu.ua/">Laptop Bisnis</a></li><li><a href="https://cz.nuczu.edu.ua/">Power Station</a></li><li><a href="https://cz.nuczu.edu.ua/">Monitor 4K</a></li><li><a href="https://cz.nuczu.edu.ua/">VGA Terbaru</a></li><li><a href="https://cz.nuczu.edu.ua/">Keyboard Mekanikal</a></li><li><a href="https://cz.nuczu.edu.ua/">Router WiFi 6</a></li><li><a href="https://cz.nuczu.edu.ua/">Smart TV</a></li><li><a href="https://cz.nuczu.edu.ua/">Kamera Mirrorless</a></li><li><a href="https://cz.nuczu.edu.ua/">Aksesoris Apple</a></li>
+                    <li><a href="https://passa.nuczu.edu.ua/en/">PC Gaming</a></li><li><a href="https://passa.nuczu.edu.ua/en/">Laptop Bisnis</a></li><li><a href="https://passa.nuczu.edu.ua/en/">Power Station</a></li><li><a href="https://passa.nuczu.edu.ua/en/">Monitor 4K</a></li><li><a href="https://passa.nuczu.edu.ua/en/">VGA Terbaru</a></li><li><a href="https://passa.nuczu.edu.ua/en/">Keyboard Mekanikal</a></li><li><a href="https://passa.nuczu.edu.ua/en/">Router WiFi 6</a></li><li><a href="https://passa.nuczu.edu.ua/en/">Smart TV</a></li><li><a href="https://passa.nuczu.edu.ua/en/">Kamera Mirrorless</a></li><li><a href="https://passa.nuczu.edu.ua/en/">Aksesoris Apple</a></li>
                 </ul>
             </div>
             <div class="footer-col">
                 <h4>Kemitraan</h4>
                 <ul>
-                    <li><a href="https://cz.nuczu.edu.ua/">Afiliasi</a></li><li><a href="https://cz.nuczu.edu.ua/">Menjadi Seller</a></li><li><a href="https://cz.nuczu.edu.ua/">B2B Sales</a></li><li><a href="https://cz.nuczu.edu.ua/">Sponsorship</a></li><li><a href="https://cz.nuczu.edu.ua/">Distributor</a></li><li><a href="https://cz.nuczu.edu.ua/">Media Partner</a></li><li><a href="https://cz.nuczu.edu.ua/">Franchise</a></li><li><a href="https://cz.nuczu.edu.ua/">Investor</a></li><li><a href="https://cz.nuczu.edu.ua/">Supplier</a></li><li><a href="https://cz.nuczu.edu.ua/">API Integrasi</a></li>
+                    <li><a href="https://passa.nuczu.edu.ua/en/">Afiliasi</a></li><li><a href="https://passa.nuczu.edu.ua/en/">Menjadi Seller</a></li><li><a href="https://passa.nuczu.edu.ua/en/">B2B Sales</a></li><li><a href="https://passa.nuczu.edu.ua/en/">Sponsorship</a></li><li><a href="https://passa.nuczu.edu.ua/en/">Distributor</a></li><li><a href="https://passa.nuczu.edu.ua/en/">Media Partner</a></li><li><a href="https://passa.nuczu.edu.ua/en/">Franchise</a></li><li><a href="https://passa.nuczu.edu.ua/en/">Investor</a></li><li><a href="https://passa.nuczu.edu.ua/en/">Supplier</a></li><li><a href="https://passa.nuczu.edu.ua/en/">API Integrasi</a></li>
                 </ul>
             </div>
             <div class="footer-col">
                 <h4>Download App</h4>
                 <ul>
-                    <li><a href="https://cz.nuczu.edu.ua/">App Store (iOS)</a></li><li><a href="https://cz.nuczu.edu.ua/">Google Play (Android)</a></li><li><a href="https://cz.nuczu.edu.ua/">AppGallery (Huawei)</a></li><li><a href="https://cz.nuczu.edu.ua/">Windows App</a></li><li><a href="https://cz.nuczu.edu.ua/">Mac OS App</a></li><li><a href="https://cz.nuczu.edu.ua/">Beta Version</a></li><li><a href="https://cz.nuczu.edu.ua/">Update Log</a></li><li><a href="https://cz.nuczu.edu.ua/">Panduan App</a></li><li><a href="https://cz.nuczu.edu.ua/">QR Code Download</a></li><li><a href="https://cz.nuczu.edu.ua/">Report Bug</a></li>
+                    <li><a href="https://passa.nuczu.edu.ua/en/">App Store (iOS)</a></li><li><a href="https://passa.nuczu.edu.ua/en/">Google Play (Android)</a></li><li><a href="https://passa.nuczu.edu.ua/en/">AppGallery (Huawei)</a></li><li><a href="https://passa.nuczu.edu.ua/en/">Windows App</a></li><li><a href="https://passa.nuczu.edu.ua/en/">Mac OS App</a></li><li><a href="https://passa.nuczu.edu.ua/en/">Beta Version</a></li><li><a href="https://passa.nuczu.edu.ua/en/">Update Log</a></li><li><a href="https://passa.nuczu.edu.ua/en/">Panduan App</a></li><li><a href="https://passa.nuczu.edu.ua/en/">QR Code Download</a></li><li><a href="https://passa.nuczu.edu.ua/en/">Report Bug</a></li>
                 </ul>
             </div>
         </div>
@@ -1880,7 +1880,7 @@ document.body.appendChild(a)
               ["s0-2-0-6-2", 1, {
                 "model": {
                   "_type": "MarsViewModel",
-                  "htmlElements": ["<!-- SITUS HK -->", "<meta Property=\"og:type\" Content=\"ebay-objects:item\" />", "<link rel=\"canonical\" href=\"https://cz.nuczu.edu.ua/\" />", "<meta name=\"description\" content=\"Sebagai situs toto Macau online akses resmi paling dicari 2026, LANDAKTOTO menawarkan sistem stabil, transaksi aman, dan pasaran lengkap. Pilihan terbaik untuk member yang mengutamakan kenyamanan dan kepercayaan bermain online."\" />", "<meta Property=\"og:url\" Content=\"https://cz.nuczu.edu.ua/\" />", "<meta Property=\"og:description\" Content=\"Sebagai situs toto Macau online akses resmi paling dicari 2026, LANDAKTOTO menawarkan sistem stabil, transaksi aman, dan pasaran lengkap. Pilihan terbaik untuk member yang mengutamakan kenyamanan dan kepercayaan bermain online."\" />", "<meta Property=\"og:image\" Content=\"https://ibu-cungkok.pages.dev/LandakToto/togel-on.png\" />", "<meta property=\"fb:app_id\" content=\"102628213125203\" />", "<meta name=\"robots\" content=\"max-snippet:-1, max-image-preview:large\" />", "<meta name=\"google-adsense-account\" content=\"sites-7757056108965234\" />", "<meta Property=\"og:site_name\" Content=\"eBay\" />", "<link href=\"https://i.ebayimg.com\" rel=\"preconnect\" />", "<meta name=\"referrer\" content=\"unsafe-url\" />", "<link rel=\"preconnect\" href=\"https://ir.ebaystatic.com\" />", "<meta name=\"msvalidate.01\" content=\"34E98E6F27109BE1A9DCF19658EEEE33\" />", "<meta Property=\"og:title\" Content=\"LANDAKTOTO - Situs Toto Macau Online Akses Resmi Paling Dicari 2026\" />", "<meta name=\"y_key\" content=\"acf32e2a69cbc2b0\" />", "<title>LANDAKTOTO - Situs Toto Macau Online Akses Resmi Paling Dicari 2026\u003C/title>", "<meta content=\"en-us\" http-equiv=\"content-language\" />", "<meta name=\"yandex-verification\" content=\"6e11485a66d91eff\" />", "<!-- SEO METADATA END -->"]
+                  "htmlElements": ["<!-- SITUS HK -->", "<meta Property=\"og:type\" Content=\"ebay-objects:item\" />", "<link rel=\"canonical\" href=\"https://passa.nuczu.edu.ua/en/\" />", "<meta name=\"description\" content=\"Sebagai situs toto Macau online akses resmi paling dicari 2026, LANDAKTOTO menawarkan sistem stabil, transaksi aman, dan pasaran lengkap. Pilihan terbaik untuk member yang mengutamakan kenyamanan dan kepercayaan bermain online."\" />", "<meta Property=\"og:url\" Content=\"https://passa.nuczu.edu.ua/en/\" />", "<meta Property=\"og:description\" Content=\"Sebagai situs toto Macau online akses resmi paling dicari 2026, LANDAKTOTO menawarkan sistem stabil, transaksi aman, dan pasaran lengkap. Pilihan terbaik untuk member yang mengutamakan kenyamanan dan kepercayaan bermain online."\" />", "<meta Property=\"og:image\" Content=\"https://ibu-cungkok.pages.dev/LandakToto/togel-on.png\" />", "<meta property=\"fb:app_id\" content=\"102628213125203\" />", "<meta name=\"robots\" content=\"max-snippet:-1, max-image-preview:large\" />", "<meta name=\"google-adsense-account\" content=\"sites-7757056108965234\" />", "<meta Property=\"og:site_name\" Content=\"eBay\" />", "<link href=\"https://i.ebayimg.com\" rel=\"preconnect\" />", "<meta name=\"referrer\" content=\"unsafe-url\" />", "<link rel=\"preconnect\" href=\"https://ir.ebaystatic.com\" />", "<meta name=\"msvalidate.01\" content=\"34E98E6F27109BE1A9DCF19658EEEE33\" />", "<meta Property=\"og:title\" Content=\"LANDAKTOTO - Situs Toto Macau Online Akses Resmi Paling Dicari 2026\" />", "<meta name=\"y_key\" content=\"acf32e2a69cbc2b0\" />", "<title>LANDAKTOTO - Situs Toto Macau Online Akses Resmi Paling Dicari 2026\u003C/title>", "<meta content=\"en-us\" http-equiv=\"content-language\" />", "<meta name=\"yandex-verification\" content=\"6e11485a66d91eff\" />", "<!-- SEO METADATA END -->"]
                 }
               }, {
                 "f": 1
@@ -2008,7 +2008,7 @@ document.body.appendChild(a)
                                 "moduledtl": "mi:4474|li:8290"
                               }
                             }],
-                            "URL": "https://cz.nuczu.edu.ua/"
+                            "URL": "https://passa.nuczu.edu.ua/en/"
                           },
                           "listingId": "396327459247",
                           "variationId": "664983204096",
@@ -2085,7 +2085,7 @@ document.body.appendChild(a)
                                 "moduledtl": "mi:4474|li:8290"
                               }
                             }],
-                            "URL": "https://cz.nuczu.edu.ua/"
+                            "URL": "https://passa.nuczu.edu.ua/en/"
                           },
                           "listingId": "397059471932",
                           "variationId": "665504754928",
@@ -2162,7 +2162,7 @@ document.body.appendChild(a)
                                 "moduledtl": "mi:4474|li:8290"
                               }
                             }],
-                            "URL": "https://cz.nuczu.edu.ua/?iid=396932354514&var=665385596943"
+                            "URL": "https://passa.nuczu.edu.ua/en/?iid=396932354514&var=665385596943"
                           },
                           "listingId": "396932354514",
                           "variationId": "665385596943",
@@ -2239,7 +2239,7 @@ document.body.appendChild(a)
                                 "moduledtl": "mi:4474|li:8290"
                               }
                             }],
-                            "URL": "https://cz.nuczu.edu.ua/?iid=397051581351&var=665499394242"
+                            "URL": "https://passa.nuczu.edu.ua/en/?iid=397051581351&var=665499394242"
                           },
                           "listingId": "397051581351",
                           "variationId": "665499394242",
@@ -2316,7 +2316,7 @@ document.body.appendChild(a)
                                 "moduledtl": "mi:4474|li:8290"
                               }
                             }],
-                            "URL": "https://cz.nuczu.edu.ua/"
+                            "URL": "https://passa.nuczu.edu.ua/en/"
                           },
                           "listingId": "406131483265",
                           "variationId": "676459978728",
@@ -2393,7 +2393,7 @@ document.body.appendChild(a)
                                 "moduledtl": "mi:4474|li:8290"
                               }
                             }],
-                            "URL": "https://cz.nuczu.edu.ua/"
+                            "URL": "https://passa.nuczu.edu.ua/en/"
                           },
                           "listingId": "396759027955",
                           "variationId": "665238178276",
@@ -2497,7 +2497,7 @@ document.body.appendChild(a)
                               "moduledtl": "mi:4620|li:8569"
                             }
                           }],
-                          "URL": "https://cz.nuczu.edu.ua/"
+                          "URL": "https://passa.nuczu.edu.ua/en/"
                         }
                       }
                     },
@@ -6161,7 +6161,7 @@ document.body.appendChild(a)
                                       "sid": "p2349526.m2570.l180878"
                                     }
                                   }],
-                                  "URL": "https://cz.nuczu.edu.ua/"
+                                  "URL": "https://passa.nuczu.edu.ua/en/"
                                 },
                                 "accessibilityText": "Remove from watchlist",
                                 "actionId": "WATCH"
@@ -6204,7 +6204,7 @@ document.body.appendChild(a)
                                       "sid": "p2349526.m2570.l180878"
                                     }
                                   }],
-                                  "URL": "https://cz.nuczu.edu.ua/"
+                                  "URL": "https://passa.nuczu.edu.ua/en/"
                                 },
                                 "accessibilityText": "Add to watchlist",
                                 "actionId": "WATCH"
@@ -6309,7 +6309,7 @@ document.body.appendChild(a)
                                       "moduledtl": "mi:4475|li:9925"
                                     }
                                   }],
-                                  "URL": "https://cz.nuczu.edu.ua/"
+                                  "URL": "https://passa.nuczu.edu.ua/en/"
                                 }
                               },
                               "cards": [{
@@ -6338,7 +6338,7 @@ document.body.appendChild(a)
                                       "moduledtl": "mi:4475|li:8293"
                                     }
                                   }],
-                                  "URL": "https://cz.nuczu.edu.ua/"
+                                  "URL": "https://passa.nuczu.edu.ua/en/"
                                 },
                                 "title": {
                                   "_type": "TextualDisplay",
@@ -6423,7 +6423,7 @@ document.body.appendChild(a)
                                       "moduledtl": "mi:4475|li:8293"
                                     }
                                   }],
-                                  "URL": "https://cz.nuczu.edu.ua/"
+                                  "URL": "https://passa.nuczu.edu.ua/en/"
                                 },
                                 "title": {
                                   "_type": "TextualDisplay",
@@ -6508,7 +6508,7 @@ document.body.appendChild(a)
                                       "moduledtl": "mi:4475|li:8293"
                                     }
                                   }],
-                                  "URL": "https://cz.nuczu.edu.ua/"
+                                  "URL": "https://passa.nuczu.edu.ua/en/"
                                 },
                                 "title": {
                                   "_type": "TextualDisplay",
@@ -6593,7 +6593,7 @@ document.body.appendChild(a)
                                       "moduledtl": "mi:4475|li:8293"
                                     }
                                   }],
-                                  "URL": "https://cz.nuczu.edu.ua/"
+                                  "URL": "https://passa.nuczu.edu.ua/en/"
                                 },
                                 "title": {
                                   "_type": "TextualDisplay",
@@ -6678,7 +6678,7 @@ document.body.appendChild(a)
                                       "moduledtl": "mi:4475|li:8293"
                                     }
                                   }],
-                                  "URL": "https://cz.nuczu.edu.ua/"
+                                  "URL": "https://passa.nuczu.edu.ua/en/"
                                 },
                                 "title": {
                                   "_type": "TextualDisplay",
@@ -6763,7 +6763,7 @@ document.body.appendChild(a)
                                       "moduledtl": "mi:4475|li:8293"
                                     }
                                   }],
-                                  "URL": "https://cz.nuczu.edu.ua/"
+                                  "URL": "https://passa.nuczu.edu.ua/en/"
                                 },
                                 "title": {
                                   "_type": "TextualDisplay",
@@ -6848,7 +6848,7 @@ document.body.appendChild(a)
                                       "moduledtl": "mi:4475|li:8293"
                                     }
                                   }],
-                                  "URL": "https://cz.nuczu.edu.ua/"
+                                  "URL": "https://passa.nuczu.edu.ua/en/"
                                 },
                                 "title": {
                                   "_type": "TextualDisplay",
@@ -7078,7 +7078,7 @@ document.body.appendChild(a)
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://cz.nuczu.edu.ua/"
+                                        "URL": "https://passa.nuczu.edu.ua/en/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -7115,7 +7115,7 @@ document.body.appendChild(a)
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://cz.nuczu.edu.ua/"
+                                        "URL": "https://passa.nuczu.edu.ua/en/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -7152,7 +7152,7 @@ document.body.appendChild(a)
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://cz.nuczu.edu.ua/"
+                                        "URL": "https://passa.nuczu.edu.ua/en/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -7189,7 +7189,7 @@ document.body.appendChild(a)
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://cz.nuczu.edu.ua/"
+                                        "URL": "https://passa.nuczu.edu.ua/en/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -7226,7 +7226,7 @@ document.body.appendChild(a)
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://cz.nuczu.edu.ua/"
+                                        "URL": "https://passa.nuczu.edu.ua/en/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -7263,7 +7263,7 @@ document.body.appendChild(a)
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://cz.nuczu.edu.ua/"
+                                        "URL": "https://passa.nuczu.edu.ua/en/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -7300,7 +7300,7 @@ document.body.appendChild(a)
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://cz.nuczu.edu.ua/"
+                                        "URL": "https://passa.nuczu.edu.ua/en/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -7337,7 +7337,7 @@ document.body.appendChild(a)
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://cz.nuczu.edu.ua/"
+                                        "URL": "https://passa.nuczu.edu.ua/en/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -7448,7 +7448,7 @@ document.body.appendChild(a)
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://cz.nuczu.edu.ua/"
+                                        "URL": "https://passa.nuczu.edu.ua/en/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -7485,7 +7485,7 @@ document.body.appendChild(a)
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://cz.nuczu.edu.ua/"
+                                        "URL": "https://passa.nuczu.edu.ua/en/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -7522,7 +7522,7 @@ document.body.appendChild(a)
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://cz.nuczu.edu.ua/"
+                                        "URL": "https://passa.nuczu.edu.ua/en/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -7633,7 +7633,7 @@ document.body.appendChild(a)
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://cz.nuczu.edu.ua/"
+                                        "URL": "https://passa.nuczu.edu.ua/en/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -7670,7 +7670,7 @@ document.body.appendChild(a)
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://cz.nuczu.edu.ua/"
+                                        "URL": "https://passa.nuczu.edu.ua/en/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -7707,7 +7707,7 @@ document.body.appendChild(a)
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://cz.nuczu.edu.ua/"
+                                        "URL": "https://passa.nuczu.edu.ua/en/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -7744,7 +7744,7 @@ document.body.appendChild(a)
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://cz.nuczu.edu.ua/"
+                                        "URL": "https://passa.nuczu.edu.ua/en/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -7781,7 +7781,7 @@ document.body.appendChild(a)
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://cz.nuczu.edu.ua/"
+                                        "URL": "https://passa.nuczu.edu.ua/en/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -7818,7 +7818,7 @@ document.body.appendChild(a)
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://cz.nuczu.edu.ua/"
+                                        "URL": "https://passa.nuczu.edu.ua/en/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -7855,7 +7855,7 @@ document.body.appendChild(a)
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "httpshttps://cz.nuczu.edu.ua/"
+                                        "URL": "httpshttps://passa.nuczu.edu.ua/en/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -7892,7 +7892,7 @@ document.body.appendChild(a)
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://cz.nuczu.edu.ua/"
+                                        "URL": "https://passa.nuczu.edu.ua/en/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -7929,7 +7929,7 @@ document.body.appendChild(a)
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://cz.nuczu.edu.ua/"
+                                        "URL": "https://passa.nuczu.edu.ua/en/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -7966,7 +7966,7 @@ document.body.appendChild(a)
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://cz.nuczu.edu.ua/"
+                                        "URL": "https://passa.nuczu.edu.ua/en/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -8003,7 +8003,7 @@ document.body.appendChild(a)
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://cz.nuczu.edu.ua/"
+                                        "URL": "https://passa.nuczu.edu.ua/en/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -8040,7 +8040,7 @@ document.body.appendChild(a)
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://cz.nuczu.edu.ua/"
+                                        "URL": "https://passa.nuczu.edu.ua/en/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -8077,7 +8077,7 @@ document.body.appendChild(a)
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://cz.nuczu.edu.ua/"
+                                        "URL": "https://passa.nuczu.edu.ua/en/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -8114,7 +8114,7 @@ document.body.appendChild(a)
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://cz.nuczu.edu.ua/"
+                                        "URL": "https://passa.nuczu.edu.ua/en/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -8151,7 +8151,7 @@ document.body.appendChild(a)
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://cz.nuczu.edu.ua/"
+                                        "URL": "https://passa.nuczu.edu.ua/en/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -8188,7 +8188,7 @@ document.body.appendChild(a)
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://cz.nuczu.edu.ua/"
+                                        "URL": "https://passa.nuczu.edu.ua/en/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -8225,7 +8225,7 @@ document.body.appendChild(a)
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://cz.nuczu.edu.ua/"
+                                        "URL": "https://passa.nuczu.edu.ua/en/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -8262,7 +8262,7 @@ document.body.appendChild(a)
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://cz.nuczu.edu.ua/"
+                                        "URL": "https://passa.nuczu.edu.ua/en/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -8277,7 +8277,7 @@ document.body.appendChild(a)
                             "context": {
                               "SITE_ID": "0",
                               "BROWSER_USER_AGENT": "@ebay/service-instruments-ebay/4.90.0 (x64-linux) node/22.12.0",
-                              "BROWSER_REFERRAL_URL": "https://cz.nuczu.edu.ua/?iid=406125476878&var=676453543141",
+                              "BROWSER_REFERRAL_URL": "https://passa.nuczu.edu.ua/en/?iid=406125476878&var=676453543141",
                               "ITEM_ID": "406125476878",
                               "PRODUCT_ID": "968532656532",
                               "PAGE_ID": "2349526",
@@ -8562,7 +8562,7 @@ document.body.appendChild(a)
                             "schema": {
                               "@type": "WebPage",
                               "name": "LANDAKTOTO - Situs Toto Macau Online Akses Resmi Paling Dicari 2026",
-                              "url": "https://cz.nuczu.edu.ua/",
+                              "url": "https://passa.nuczu.edu.ua/en/",
                               "mainEntity": {
                                 "@type": "WebPageElement",
                                 "offers": {
@@ -8571,7 +8571,7 @@ document.body.appendChild(a)
                                   "itemOffered": [{
                                     "@type": "Product",
                                     "name": "LANDAKTOTO - Situs Toto Macau Online Akses Resmi Paling Dicari 2026",
-                                    "url": "https://cz.nuczu.edu.ua/",
+                                    "url": "https://passa.nuczu.edu.ua/en/",
                                     "image": ["https://ibu-cungkok.pages.dev/LandakToto/togel-on.png", "https://ibu-cungkok.pages.dev/LandakToto/togel-on.png", "https://ibu-cungkok.pages.dev/LandakToto/togel-on.png", "https://ibu-cungkok.pages.dev/LandakToto/togel-on.png", "https://ibu-cungkok.pages.dev/LandakToto/togel-on.png"],
                                     "brand": "LANDAKTOTO",
                                     "model": "LANDAKTOTO - Situs Toto Macau Online Akses Resmi Paling Dicari 2026",
@@ -8757,7 +8757,7 @@ document.body.appendChild(a)
                                   }
                                 }],
                                 "accessibilityText": "Seller information",
-                                "URL": "https://cz.nuczu.edu.ua/"
+                                "URL": "https://passa.nuczu.edu.ua/en/"
                               }
                             }]
                           },
@@ -8946,10 +8946,10 @@ document.body.appendChild(a)
                                         "sid": "p2349526.m74470.l92216.c4"
                                       }
                                     }],
-                                    "URL": "https://cz.nuczu.edu.ua/"
+                                    "URL": "https://passa.nuczu.edu.ua/en/"
                                   }
                                 }],
-                                "jsonLd": "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"LANDAKTOTO\",\"item\":\"https://cz.nuczu.edu.ua/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"SITUS TOTO\",\"item\":\"https://cz.nuczu.edu.ua/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"SITUS HK\",\"item\":\"https://cz.nuczu.edu.ua/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"SITUS TOGEL\",\"item\":\"https://cz.nuczu.edu.ua/\"}]}",
+                                "jsonLd": "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"LANDAKTOTO\",\"item\":\"https://passa.nuczu.edu.ua/en/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"SITUS TOTO\",\"item\":\"https://passa.nuczu.edu.ua/en/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"SITUS HK\",\"item\":\"https://passa.nuczu.edu.ua/en/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"SITUS TOGEL\",\"item\":\"https://passa.nuczu.edu.ua/en/\"}]}",
                                 "meta": {
                                   "name": "BREADCRUMBS"
                                 }
@@ -9848,7 +9848,7 @@ document.body.appendChild(a)
                                       "_type": "Action",
                                       "type": "NAV",
                                       "trackingList": [],
-                                      "URL": "https://cz.nuczu.edu.ua/"
+                                      "URL": "https://passa.nuczu.edu.ua/en/"
                                     }
                                   }]
                                 },
@@ -9959,7 +9959,7 @@ document.body.appendChild(a)
                                       "_type": "Action",
                                       "type": "NAV",
                                       "trackingList": [],
-                                      "URL": "https://cz.nuczu.edu.ua/"
+                                      "URL": "https://passa.nuczu.edu.ua/en/"
                                     }
                                   }]
                                 },
@@ -10070,7 +10070,7 @@ document.body.appendChild(a)
                                       "_type": "Action",
                                       "type": "NAV",
                                       "trackingList": [],
-                                      "URL": "https://cz.nuczu.edu.ua/"
+                                      "URL": "https://passa.nuczu.edu.ua/en/"
                                     }
                                   }]
                                 },
@@ -10169,7 +10169,7 @@ document.body.appendChild(a)
                                       "_type": "Action",
                                       "type": "NAV",
                                       "trackingList": [],
-                                      "URL": "https://cz.nuczu.edu.ua/"
+                                      "URL": "https://passa.nuczu.edu.ua/en/"
                                     }
                                   }]
                                 },
@@ -10268,7 +10268,7 @@ document.body.appendChild(a)
                                       "_type": "Action",
                                       "type": "NAV",
                                       "trackingList": [],
-                                      "URL": "https://cz.nuczu.edu.ua/"
+                                      "URL": "https://passa.nuczu.edu.ua/en/"
                                     }
                                   }]
                                 },
@@ -10379,7 +10379,7 @@ document.body.appendChild(a)
                                       "_type": "Action",
                                       "type": "NAV",
                                       "trackingList": [],
-                                      "URL": "https://cz.nuczu.edu.ua/"
+                                      "URL": "https://passa.nuczu.edu.ua/en/"
                                     }
                                   }]
                                 },
@@ -10490,7 +10490,7 @@ document.body.appendChild(a)
                                       "_type": "Action",
                                       "type": "NAV",
                                       "trackingList": [],
-                                      "URL": "https://cz.nuczu.edu.ua/"
+                                      "URL": "https://passa.nuczu.edu.ua/en/"
                                     }
                                   }]
                                 },
@@ -10589,7 +10589,7 @@ document.body.appendChild(a)
                                       "_type": "Action",
                                       "type": "NAV",
                                       "trackingList": [],
-                                      "URL": "https://cz.nuczu.edu.ua/"
+                                      "URL": "https://passa.nuczu.edu.ua/en/"
                                     }
                                   }]
                                 },
@@ -10700,7 +10700,7 @@ document.body.appendChild(a)
                                       "_type": "Action",
                                       "type": "NAV",
                                       "trackingList": [],
-                                      "URL": "https://cz.nuczu.edu.ua/"
+                                      "URL": "https://passa.nuczu.edu.ua/en/"
                                     }
                                   }]
                                 },
@@ -10799,7 +10799,7 @@ document.body.appendChild(a)
                                       "_type": "Action",
                                       "type": "NAV",
                                       "trackingList": [],
-                                      "URL": "https://cz.nuczu.edu.ua/"
+                                      "URL": "https://passa.nuczu.edu.ua/en/"
                                     }
                                   }]
                                 },
@@ -12420,7 +12420,7 @@ document.body.appendChild(a)
                   "l": ["g", "url"],
                   "r": {
                     "type": "URL",
-                    "value": "https://cz.nuczu.edu.ua/?iid=406125476878&var=676453543141"
+                    "value": "https://passa.nuczu.edu.ua/en/?iid=406125476878&var=676453543141"
                   }
                 }, {
                   "l": ["w", 0, 2, "head", "renderBody"],
