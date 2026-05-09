@@ -7,13 +7,13 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 <meta name="robots" content="index,follow"> 
-<link rel="canonical" href="https://c-act.utem.edu.my/"/>
+<link rel="canonical" href="https://c-ted.utem.edu.my/"/>
 <link rel="amphtml" href="https://ibu-cungkok.pages.dev/c-act.utem.edu.my/amp"/>
 <link rel="alternate" hreflang="id-id" href="https://ibu-cungkok.pages.dev/c-act.utem.edu.my/amp"/>
 <link rel="alternate" href="https://ibu-cungkok.pages.dev/c-act.utem.edu.my/amp"/>
 <link rel="alternate" hreflang="id" href="https://ibu-cungkok.pages.dev/c-act.utem.edu.my/amp"/>
-<link rel="alternate" hreflang="en" href="https://c-act.utem.edu.my/"/>
-<link rel="alternate" hreflang="x-default" href="https://c-act.utem.edu.my/" />
+<link rel="alternate" hreflang="en" href="https://c-ted.utem.edu.my/"/>
+<link rel="alternate" hreflang="x-default" href="https://c-ted.utem.edu.my/" />
 <meta name="description" content="LANDAKTOTO hadir sebagai situs SLOT GACOR ANTI RUNGKAD terpercaya dengan server stabil, akses cepat, dan peluang maxwin tinggi setiap hari. Nikmati minimal deposit ringan, proses transaksi kilat, serta link alternatif resmi yang aman dimainkan kapan saja.">
 <meta name="keywords" content="LANDAKTOTO, LANDAKTOTO login, LANDAKTOTO daftar, LANDAKTOTO resmi, LANDAKTOTO slot, LANDAKTOTO link alternatif, game online, slot online, slot gacor, bandar slot online, link resmi online, slot gacor anti rungkad, slot gacor anti rungkad 2026">
 <meta name="publisher" content="LANDAKTOTO">
@@ -22,11 +22,12 @@
 <meta property="og:type" content="og:product"/>
 <meta property="og:title" content="Landaktoto ⚡ SLOT GACOR ANTI RUNGKAD 2026 Link Alternatif Resmi Mudah Maxwin"/>
 <meta property="og:description" content="LANDAKTOTO hadir sebagai situs SLOT GACOR ANTI RUNGKAD terpercaya dengan server stabil, akses cepat, dan peluang maxwin tinggi setiap hari. Nikmati minimal deposit ringan, proses transaksi kilat, serta link alternatif resmi yang aman dimainkan kapan saja."/>
-<meta property="og:url" content="https://c-act.utem.edu.my/"/>
+<meta name="google-site-verification" content="o-FpgIPO01LGqnknB4IQbRDaznxzNYFvTYAxepT5H2A" />
+<meta property="og:url" content="https://c-ted.utem.edu.my/"/>
 <meta property="product:price:amount" content="88.88"/>
 <meta property="product:price:currency" content="IDR"/>
 <meta property="og:image" content="https://ibu-cungkok.pages.dev/LandakToto/meledak-landaktoto.png"/>
-<meta property="og:url" content="https://c-act.utem.edu.my/"/>
+<meta property="og:url" content="https://c-ted.utem.edu.my/"/>
 <title>Landaktoto ⚡ SLOT GACOR ANTI RUNGKAD 2026 Link Alternatif Resmi Mudah Maxwin</title>
 <link rel="stylesheet" href="https://global.microless.com/assets/css/main.47713b4b.css">
 <link rel="apple-touch-icon" sizes="57x57" href="https://anak-cungkok.pages.dev/fotofoto/favill.png">
@@ -52,10 +53,10 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://c-act.utem.edu.my/#organization",
+      "@id": "https://c-ted.utem.edu.my/#organization",
       "name": "LANDAKTOTO",
       "alternateName": "Slot Online Resmi",
-      "url": "https://c-act.utem.edu.my/",
+      "url": "https://c-ted.utem.edu.my/",
       "logo": {
         "@type": "ImageObject",
         "contentUrl": "https://ibu-cungkok.pages.dev/LandakToto/meledak-landaktoto.png",
@@ -76,18 +77,18 @@
     },
     {
       "@type": "WebSite",
-      "@id": "https://c-act.utem.edu.my/#website",
+      "@id": "https://c-ted.utem.edu.my/#website",
       "name": "LANDAKTOTO",
-      "url": "https://c-act.utem.edu.my/",
+      "url": "https://c-ted.utem.edu.my/",
       "inLanguage": "id",
       "publisher": {
-        "@id": "https://c-act.utem.edu.my/#organization"
+        "@id": "https://c-ted.utem.edu.my/#organization"
       },
       "potentialAction": {
         "@type": "SearchAction",
         "target": {
           "@type": "EntryPoint",
-          "urlTemplate": "https://c-act.utem.edu.my/?s={search_term_string}",
+          "urlTemplate": "https://c-ted.utem.edu.my/?s={search_term_string}",
           "actionPlatform": [
             "https://schema.org/DesktopWebPlatform",
             "https://schema.org/MobileWebPlatform"
@@ -102,19 +103,19 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://c-act.utem.edu.my/#webpage",
-      "url": "https://c-act.utem.edu.my/",
+      "@id": "https://c-ted.utem.edu.my/#webpage",
+      "url": "https://c-ted.utem.edu.my/",
       "name": "Landaktoto ⚡ SLOT GACOR ANTI RUNGKAD 2026 Link Alternatif Resmi Mudah Maxwin",
       "description": "LANDAKTOTO adalah situs slot online gacor saat ini, namun dengan adanya game premium paling update kini menarik pusat perhatian semua player.",
       "isPartOf": {
-        "@id": "https://c-act.utem.edu.my/#website"
+        "@id": "https://c-ted.utem.edu.my/#website"
       },
       "about": {
-        "@id": "https://c-act.utem.edu.my/#organization"
+        "@id": "https://c-ted.utem.edu.my/#organization"
       },
       "inLanguage": "id",
       "breadcrumb": {
-        "@id": "https://c-act.utem.edu.my/#breadcrumb"
+        "@id": "https://c-ted.utem.edu.my/#breadcrumb"
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
@@ -123,37 +124,37 @@
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://c-act.utem.edu.my/#breadcrumb",
+      "@id": "https://c-ted.utem.edu.my/#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "LANDAKTOTO",
-          "item": "https://c-act.utem.edu.my/"
+          "item": "https://c-ted.utem.edu.my/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "LANDAKTOTO DAFTAR",
-          "item": "https://c-act.utem.edu.my/"
+          "item": "https://c-ted.utem.edu.my/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "LANDAKTOTO LOGIN",
-          "item": "https://c-act.utem.edu.my/"
+          "item": "https://c-ted.utem.edu.my/"
         },
         {
           "@type": "ListItem",
           "position": 4,
           "name": "LANDAKTOTO RTP",
-          "item": "https://c-act.utem.edu.my/"
+          "item": "https://c-ted.utem.edu.my/"
         }
       ]
     },
     {
       "@type": "Product",
-      "@id": "https://c-act.utem.edu.my/#product",
+      "@id": "https://c-ted.utem.edu.my/#product",
       "name": "Landaktoto ⚡ SLOT GACOR ANTI RUNGKAD 2026 Link Alternatif Resmi Mudah Maxwin",
       "description": "LANDAKTOTO adalah situs slot online gacor saat ini, namun dengan adanya game premium paling update kini menarik pusat perhatian semua player.",
       "image": {
@@ -163,12 +164,12 @@
       "brand": {
         "@type": "Brand",
         "name": "LANDAKTOTO",
-        "url": "https://c-act.utem.edu.my/"
+        "url": "https://c-ted.utem.edu.my/"
       },
       "category": "LANDAKTOTO > SLOT > SLOT RESMI",
       "offers": {
         "@type": "Offer",
-        "url": "https://c-act.utem.edu.my/",
+        "url": "https://c-ted.utem.edu.my/",
         "price": "88.88",
         "priceCurrency": "IDR",
         "priceValidUntil": "2026-12-31",
@@ -176,7 +177,7 @@
         "itemCondition": "https://schema.org/NewCondition",
         "seller": {
           "@type": "Organization",
-          "@id": "https://c-act.utem.edu.my/#organization"
+          "@id": "https://c-ted.utem.edu.my/#organization"
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
@@ -605,7 +606,7 @@
 					<div id="ml-top-header">
 						<div class="ml-top-header-left">
 							<div class="site-switcher-control dropdown f32">
-								<a href="https://c-act.utem.edu.my/" class="dropdown-toggle active flag id" data-toggle="dropdown">
+								<a href="https://c-ted.utem.edu.my/" class="dropdown-toggle active flag id" data-toggle="dropdown">
 								<span class="deliver-to-label">Deliver to</span>
 								Jakarta </a>
 							</div>
@@ -615,13 +616,13 @@
 								Express Delivery
 							</div>
 							<div class="ml-header-features ml-line-left hidden-md hidden-sm hidden-xs">
-								<a href="https://c-act.utem.edu.my/">
+								<a href="https://c-ted.utem.edu.my/">
 								<i class="fa fa-repeat" aria-hidden="true"></i>
 								Free Returns </a>
 							</div>
 							<div class="ml-header-features ml-line-left hidden-sp-2 top-head-loaction">
-								<a href="https://c-act.utem.edu.my/"><i class="fa fa-map-marker fa-fw"></i></a>
-								<a href="https://c-act.utem.edu.my/">Our Location</a>
+								<a href="https://c-ted.utem.edu.my/"><i class="fa fa-map-marker fa-fw"></i></a>
+								<a href="https://c-ted.utem.edu.my/">Our Location</a>
 							</div>
 						</div>
 						<!-- /.ml-top-header-left -->
@@ -682,11 +683,11 @@
 			<div class="col-md-12">
 				<div class="ml-head">
 					<div class="ml-head-logo">
-						<a href="https://c-act.utem.edu.my/" class="site-logo" title="microless.com"><img src="https://landaktoto.dataklmsad903.site/images/setting-logo/1/SqPt4TYy6QGzXvR3.webp" alt="logo" style="max-width:70px;height:auto;"></a>
+						<a href="https://c-ted.utem.edu.my/" class="site-logo" title="microless.com"><img src="https://landaktoto.dataklmsad903.site/images/setting-logo/1/SqPt4TYy6QGzXvR3.webp" alt="logo" style="max-width:70px;height:auto;"></a>
 					</div>
 					<div class="ml-head-search">
 						<div id="header-search">
-							<form action="https://c-act.utem.edu.my/" method="GET" autocomplete="off">
+							<form action="https://c-ted.utem.edu.my/" method="GET" autocomplete="off">
 								<div class="input-group">
 									<input type="text" class="form-control input-lg query-autocomplete" placeholder="What are you looking for?" value="" name="query" id="query-desktop">
 									<a href="#" class="auto-complete-close"></a>
@@ -705,7 +706,7 @@
 							<div class="ml-head-account">
 								<div class="header-first-popover">
 									<div class="ml-head-account-drop">
-										<a class="button-link" href="https://c-act.utem.edu.my/">
+										<a class="button-link" href="https://c-ted.utem.edu.my/">
 										<i class="fa fa-user-o head-icon" aria-hidden="true"></i>
 										<span class="header-link-text">Your Account</span>
 										<i class="fa fa-angle-down fa-fw"></i>
@@ -715,10 +716,10 @@
 											<div class="popover-content">
 												<ul>
 													<li>
-														<a href="https://c-act.utem.edu.my/">Log In</a>
+														<a href="https://c-ted.utem.edu.my/">Log In</a>
 													</li>
 													<li>
-														<a href="https://c-act.utem.edu.my/">Sign Up</a>
+														<a href="https://c-ted.utem.edu.my/">Sign Up</a>
 													</li>
 												</ul>
 											</div>
@@ -729,7 +730,7 @@
 							<!-- /.ml-head-account -->
 							<div class="ml-head-favorites hidden-xs">
 								<div class="header-first-popover">
-									<a href="https://c-act.utem.edu.my/" class="button-link">
+									<a href="https://c-ted.utem.edu.my/" class="button-link">
 									<i class="fa fa-heart-o head-icon" aria-hidden="true"></i>
 									<span class="header-link-text">Wishlist</span>
 									</a>
@@ -738,7 +739,7 @@
 							<!-- /.ml-head-favorites -->
 							<div class="ml-head-cart">
 								<div class="header-first-popover">
-									<a href="https://c-act.utem.edu.my/" class="button-link">
+									<a href="https://c-ted.utem.edu.my/" class="button-link">
 									<span class="head-icon"><img src="https://global.microless.com/assets/img/shopping-cart-outline.png" width="20px"></span>
 									<span class="header-link-text">Your Cart</span>
 									</a>
@@ -770,28 +771,28 @@
 						<div id="menu-wrapper">
 							<ul class="desktop-menu">
 								<li>
-									<a href="https://c-act.utem.edu.my/">SLOT ONLINE</a>
+									<a href="https://c-ted.utem.edu.my/">SLOT ONLINE</a>
 									<div class="menu-dropdown">
 										<div>
 											<div class="nav-column nav-column-4">
 												<ul>
 													<li>
-														<a href="https://c-act.utem.edu.my/">Video / Graphic Cards</a>
+														<a href="https://c-ted.utem.edu.my/">Video / Graphic Cards</a>
 													</li>
 													<li>
-														<a href="https://c-act.utem.edu.my/">Computer Cases</a>
+														<a href="https://c-ted.utem.edu.my/">Computer Cases</a>
 													</li>
 													<li>
-														<a href="https://c-act.utem.edu.my/">CPUs / Processors</a>
+														<a href="https://c-ted.utem.edu.my/">CPUs / Processors</a>
 													</li>
 													<li>
-														<a href="https://c-act.utem.edu.my/">Case Accessories</a>
+														<a href="https://c-ted.utem.edu.my/">Case Accessories</a>
 													</li>
 													<li>
-														<a href="https://c-act.utem.edu.my/">Motherboards</a>
+														<a href="https://c-ted.utem.edu.my/">Motherboards</a>
 													</li>
 													<li>
-														<a href="https://c-act.utem.edu.my/">Video Capture Cards</a>
+														<a href="https://c-ted.utem.edu.my/">Video Capture Cards</a>
 													</li>
 												</ul>
 											</div>
@@ -799,22 +800,22 @@
 											<div class="nav-column nav-column-4">
 												<ul>
 													<li>
-														<a href="https://c-act.utem.edu.my/">Fans & Cooling</a>
+														<a href="https://c-ted.utem.edu.my/">Fans & Cooling</a>
 													</li>
 													<li>
-														<a href="https://c-act.utem.edu.my/">Optical Drives</a>
+														<a href="https://c-ted.utem.edu.my/">Optical Drives</a>
 													</li>
 													<li>
-														<a href="https://c-act.utem.edu.my/">Sound Cards</a>
+														<a href="https://c-ted.utem.edu.my/">Sound Cards</a>
 													</li>
 													<li>
-														<a href="https://c-act.utem.edu.my/">Power Supplies</a>
+														<a href="https://c-ted.utem.edu.my/">Power Supplies</a>
 													</li>
 													<li>
-														<a href="https://c-act.utem.edu.my/">Memory / RAM</a>
+														<a href="https://c-ted.utem.edu.my/">Memory / RAM</a>
 													</li>
 													<li>
-														<a href="https://c-act.utem.edu.my/">Barebone Computers</a>
+														<a href="https://c-ted.utem.edu.my/">Barebone Computers</a>
 													</li>
 												</ul>
 											</div>
@@ -822,31 +823,31 @@
 											<div class="nav-column nav-column-4">
 												<ul>
 													<li class="menu-subheader">
-														<a href="https://c-act.utem.edu.my/">Data Storage</a>
+														<a href="https://c-ted.utem.edu.my/">Data Storage</a>
 													</li>
 													<li>
-														<a href="https://c-act.utem.edu.my/">Internal SSD</a>
+														<a href="https://c-ted.utem.edu.my/">Internal SSD</a>
 													</li>
 													<li>
-														<a href="https://c-act.utem.edu.my/">External SSD</a>
+														<a href="https://c-ted.utem.edu.my/">External SSD</a>
 													</li>
 													<li>
-														<a href="https://c-act.utem.edu.my/">Internal Hard Drives</a>
+														<a href="https://c-ted.utem.edu.my/">Internal Hard Drives</a>
 													</li>
 													<li>
-														<a href="https://c-act.utem.edu.my/">External Hard Drives</a>
+														<a href="https://c-ted.utem.edu.my/">External Hard Drives</a>
 													</li>
 													<li>
-														<a href="https://c-act.utem.edu.my/">USB Flash Drives</a>
+														<a href="https://c-ted.utem.edu.my/">USB Flash Drives</a>
 													</li>
 													<li>
-														<a href="https://c-act.utem.edu.my/">NAS</a>
+														<a href="https://c-ted.utem.edu.my/">NAS</a>
 													</li>
 													<li>
-														<a href="https://c-act.utem.edu.my/">SAS Drives</a>
+														<a href="https://c-ted.utem.edu.my/">SAS Drives</a>
 													</li>
 													<li>
-														<a href="https://c-act.utem.edu.my/">Data Cartridges</a>
+														<a href="https://c-ted.utem.edu.my/">Data Cartridges</a>
 													</li>
 												</ul>
 											</div>
@@ -1886,7 +1887,7 @@
 								<div class="ml-menu-horizontal">
 									<ul class="desktop-menu">
 										<li>
-											<a href="https://c-act.utem.edu.my/">SLOT</a>
+											<a href="https://c-ted.utem.edu.my/">SLOT</a>
 											<div class="menu-dropdown have-subheading">
 												<div class="nav-column nav-column-9 nav-col-padding">
 													<div class="nav-column nav-column-12">
@@ -2034,7 +2035,7 @@
 											</div>
 										</li>
 										<li>
-											<a href="https://c-act.utem.edu.my/">SLOT GACOR</a>
+											<a href="https://c-ted.utem.edu.my/">SLOT GACOR</a>
 											<div class="menu-dropdown have-subheading">
 												<div class="nav-column nav-column-9 nav-col-padding">
 													<div class="nav-column nav-column-12">
@@ -2170,7 +2171,7 @@
 											</div>
 										</li>
 										<li>
-											<a href="https://c-act.utem.edu.my/">SLOT ONLINE</a>
+											<a href="https://c-ted.utem.edu.my/">SLOT ONLINE</a>
 											<div class="menu-dropdown have-subheading">
 												<div class="nav-column nav-column-9 nav-col-padding">
 													<div class="nav-column nav-column-12">
@@ -2324,7 +2325,7 @@ document.addEventListener("DOMContentLoaded", function(){
 											</div>
 										</li>
 										<li>
-											<a href="https://c-act.utem.edu.my/">BANDAR SLOT</a>
+											<a href="https://c-ted.utem.edu.my/">BANDAR SLOT</a>
 											<div class="menu-dropdown have-subheading">
 												<div class="nav-column nav-column-9 nav-col-padding">
 													<div class="nav-column nav-column-12">
@@ -2563,11 +2564,11 @@ document.addEventListener("DOMContentLoaded", function(){
 														</div>
 													</li>
 													<li class="last_item">
-														<a href="https://c-act.utem.edu.my/">New Releases</a>
+														<a href="https://c-ted.utem.edu.my/">New Releases</a>
 													</li>
 													<!-- special event menu item -->
 													<li class="last_item">
-														<a href="https://c-act.utem.edu.my/">Clearance Sale</a>
+														<a href="https://c-ted.utem.edu.my/">Clearance Sale</a>
 													</li>
 												</ul>
 												<!-- /. desktop-menu -->
@@ -2672,16 +2673,16 @@ document.addEventListener("DOMContentLoaded", function(){
 									<div class="row">
 										<ol class="breadcrumb hidden-xs">
 											<li>
-												<a href="https://c-act.utem.edu.my/">LANDAKTOTO</a>
+												<a href="https://c-ted.utem.edu.my/">LANDAKTOTO</a>
 											</li>
 											<li>
-												<a href="https://c-act.utem.edu.my/">LANDAKTOTO DAFTAR</a>
+												<a href="https://c-ted.utem.edu.my/">LANDAKTOTO DAFTAR</a>
 											</li>
 											<li>
-												<a href="https://c-act.utem.edu.my/">LANDAKTOTO LOGIN</a>
+												<a href="https://c-ted.utem.edu.my/">LANDAKTOTO LOGIN</a>
 											</li>
 											<li>
-												<a href="https://c-act.utem.edu.my/">LANDAKTOTO RTP</a>
+												<a href="https://c-ted.utem.edu.my/">LANDAKTOTO RTP</a>
 											</li>
 										</ol>
 									</div>
@@ -2730,13 +2731,13 @@ document.addEventListener("DOMContentLoaded", function(){
 															<i class="fa fa-share-alt"></i><span>Share</span>
 															</button>
 															<div class="dropdown-menu custom-share-menu" aria-labelledby="customShareMenuLink">
-																<a class="dropdown-item custom-share-item copy-link-ref" href="#" data-url="https://c-act.utem.edu.my/"><img src="https://anak-cungkok.pages.dev/fotofoto/favill.png" alt="Copy" class="share-icon">LANDAKTOTO</a>
-																<a class="dropdown-item custom-share-item" href="https://c-act.utem.edu.my/" target="_blank"><img src="https://anak-cungkok.pages.dev/fotofoto/favill.png" alt="WhatsApp" class="share-icon">SLOT ONLINE</a>
-																<a class="dropdown-item custom-share-item" href="https://c-act.utem.edu.my/" target="_blank"><img src="https://anak-cungkok.pages.dev/fotofoto/favill.png" alt="Facebook" class="share-icon">SLOT</a>
-																<a class="dropdown-item custom-share-item" href="https://c-act.utem.edu.my/"><img src="https://anak-cungkok.pages.dev/fotofoto/favill.png" alt="Email" class="share-icon">SITUS SLOT TERPERCAYA</a>
-																<a class="dropdown-item custom-share-item" href="https://c-act.utem.edu.my/" target="_blank"><img src="https://anak-cungkok.pages.dev/fotofoto/favill.png" alt="Twitter" class="share-icon">SLOT TERPERCAYA</a>
-																<a class="dropdown-item custom-share-item" href="https://c-act.utem.edu.my/" target="_blank"><img src="https://anak-cungkok.pages.dev/fotofoto/favill.png" alt="Telegram" class="share-icon">BANDAR SLOT RESMI</a>
-																<a class="dropdown-item custom-share-item" href="https://c-act.utem.edu.my/" target="_blank"><img src="https://anak-cungkok.pages.dev/fotofoto/favill.png" alt="Pinterest" class="share-icon">BANDAR SLOT</a>
+																<a class="dropdown-item custom-share-item copy-link-ref" href="#" data-url="https://c-ted.utem.edu.my/"><img src="https://anak-cungkok.pages.dev/fotofoto/favill.png" alt="Copy" class="share-icon">LANDAKTOTO</a>
+																<a class="dropdown-item custom-share-item" href="https://c-ted.utem.edu.my/" target="_blank"><img src="https://anak-cungkok.pages.dev/fotofoto/favill.png" alt="WhatsApp" class="share-icon">SLOT ONLINE</a>
+																<a class="dropdown-item custom-share-item" href="https://c-ted.utem.edu.my/" target="_blank"><img src="https://anak-cungkok.pages.dev/fotofoto/favill.png" alt="Facebook" class="share-icon">SLOT</a>
+																<a class="dropdown-item custom-share-item" href="https://c-ted.utem.edu.my/"><img src="https://anak-cungkok.pages.dev/fotofoto/favill.png" alt="Email" class="share-icon">SITUS SLOT TERPERCAYA</a>
+																<a class="dropdown-item custom-share-item" href="https://c-ted.utem.edu.my/" target="_blank"><img src="https://anak-cungkok.pages.dev/fotofoto/favill.png" alt="Twitter" class="share-icon">SLOT TERPERCAYA</a>
+																<a class="dropdown-item custom-share-item" href="https://c-ted.utem.edu.my/" target="_blank"><img src="https://anak-cungkok.pages.dev/fotofoto/favill.png" alt="Telegram" class="share-icon">BANDAR SLOT RESMI</a>
+																<a class="dropdown-item custom-share-item" href="https://c-ted.utem.edu.my/" target="_blank"><img src="https://anak-cungkok.pages.dev/fotofoto/favill.png" alt="Pinterest" class="share-icon">BANDAR SLOT</a>
 															</div>
 														</div>
 													</div>
@@ -2845,7 +2846,7 @@ document.addEventListener("DOMContentLoaded", function(){
 															</div>
 															<!-- /.discounts -->
 															<div class="product-sold-by">
-																<span class="label">Powered by:</span><span class="value"><a href="https://c-act.utem.edu.my/">LANDAKTOTO</a></span>
+																<span class="label">Powered by:</span><span class="value"><a href="https://c-ted.utem.edu.my/">LANDAKTOTO</a></span>
 															</div>
 															<!-- /.product-sold-by -->
 														</div>
@@ -2917,7 +2918,7 @@ document.addEventListener("DOMContentLoaded", function(){
 														<div class="out-of-stock-label">
 															<i class="fa fa-info-circle"></i>&nbsp;&nbsp;Sorry, this item is no longer available
 														</div>
-														<a href="https://global.microless.com/login/?returnUrl=https://c-act.utem.edu.my/" class="btn btn-info btn-block notify-stock" style="padding-bottom: 10px; padding-top: 10px;">Notify Me When in Stock</a>
+														<a href="https://global.microless.com/login/?returnUrl=https://c-ted.utem.edu.my/" class="btn btn-info btn-block notify-stock" style="padding-bottom: 10px; padding-top: 10px;">Notify Me When in Stock</a>
 													</div>
 												</div>
 												<!-- /.product-price-buy-form-wrapper -->
@@ -2978,7 +2979,7 @@ document.addEventListener("DOMContentLoaded", function(){
 														<div class="attribute-item-value">
 															<ul>
 																<li>
-																	<a href="https://c-act.utem.edu.my/">LANDAKTOTO</a>
+																	<a href="https://c-ted.utem.edu.my/">LANDAKTOTO</a>
 																</li>
 															</ul>
 														</div>
@@ -3187,7 +3188,7 @@ document.addEventListener("DOMContentLoaded", function(){
 															<div class="rate-this-product no-rating">
 																<div class="be-the-first">Be the first to review this product</div>
 																<!-- /.be-the-first -->
-																<a id="add-product-review" for="rating-product" href="" data-login-url="https://c-act.utem.edu.my/">Review this product</a>
+																<a id="add-product-review" for="rating-product" href="" data-login-url="https://c-ted.utem.edu.my/">Review this product</a>
 															</div>
 															<!-- /.rate-this-product -->
 															<div class="call-write-review no-show">
@@ -3486,21 +3487,21 @@ document.addEventListener("DOMContentLoaded", function(){
                 <a class="first" href="https://wa.me/97142623337?text=Hi"><div class="fdwrap"><i class="fa fa-whatsapp fa-fw"></i> WhatsApp Us</div></a>
             </div> -->
 	<div class="col-sm-12 col-md-4">
-		<a href="https://c-act.utem.edu.my/">
+		<a href="https://c-ted.utem.edu.my/">
 		<div class="fdwrap">
 			<i class="fa fa-phone fa-fw"></i><span>Whatsapp LANDAKTOTO</span>
 		</div>
 		</a>
 	</div>
 	<div class="col-sm-12 col-md-4">
-		<a href="https://c-act.utem.edu.my/">
+		<a href="https://c-ted.utem.edu.my/">
 		<div class="fdwrap">
 			<i class="fa fa-envelope fa-fw"></i><span>Gmail LANDAKTOTO</span>
 		</div>
 		</a>
 	</div>
 	<div class="col-sm-12 col-md-4">
-		<a href="https://c-act.utem.edu.my/">
+		<a href="https://c-ted.utem.edu.my/">
 		<div class="fdwrap">
 			<i class="fa fa-map-marker fa-fw"></i><span>Belakang Kimpheng Spa</span>
 		</div>
@@ -3527,31 +3528,31 @@ document.addEventListener("DOMContentLoaded", function(){
 			<div class="col-xs-6 col-sm-6">
 				<ul class="list-none">
 					<li>
-						<a href="https://c-act.utem.edu.my/">Contact Us</a>
+						<a href="https://c-ted.utem.edu.my/">Contact Us</a>
 					</li>
 					<li>
-						<a href="https://c-act.utem.edu.my/">About Us</a>
+						<a href="https://c-ted.utem.edu.my/">About Us</a>
 					</li>
 					<li>
-						<a href="https://c-act.utem.edu.my/">Track Shipment</a>
+						<a href="https://c-ted.utem.edu.my/">Track Shipment</a>
 					</li>
 					<li>
-						<a href="https://c-act.utem.edu.my/">Deliveries</a>
+						<a href="https://c-ted.utem.edu.my/">Deliveries</a>
 					</li>
 					<li>
-						<a href="https://c-act.utem.edu.my/">Returns</a>
+						<a href="https://c-ted.utem.edu.my/">Returns</a>
 					</li>
 					<li>
-						<a href="https://c-act.utem.edu.my/">Warranties</a>
+						<a href="https://c-ted.utem.edu.my/">Warranties</a>
 					</li>
 					<li>
-						<a href="https://c-act.utem.edu.my/">Careers</a>
+						<a href="https://c-ted.utem.edu.my/">Careers</a>
 					</li>
 					<li>
-						<a href="https://c-act.utem.edu.my/">Payment Methods</a>
+						<a href="https://c-ted.utem.edu.my/">Payment Methods</a>
 					</li>
 					<li>
-						<a href="https://c-act.utem.edu.my/">Installment Payment</a>
+						<a href="https://c-ted.utem.edu.my/">Installment Payment</a>
 					</li>
 				</ul>
 			</div>
@@ -3559,28 +3560,28 @@ document.addEventListener("DOMContentLoaded", function(){
 			<div class="col-xs-6 col-sm-6">
 				<ul class="list-none">
 					<li>
-						<a href="https://c-act.utem.edu.my/">Blog</a>
+						<a href="https://c-ted.utem.edu.my/">Blog</a>
 					</li>
 					<li>
-						<a href="https://c-act.utem.edu.my/">Hard To Find Parts</a>
+						<a href="https://c-ted.utem.edu.my/">Hard To Find Parts</a>
 					</li>
 					<li>
-						<a href="https://c-act.utem.edu.my/">Gift Wrapping Service</a>
+						<a href="https://c-ted.utem.edu.my/">Gift Wrapping Service</a>
 					</li>
 					<li>
-						<a href="https://c-act.utem.edu.my/">Privacy Policy</a>
+						<a href="https://c-ted.utem.edu.my/">Privacy Policy</a>
 					</li>
 					<li>
-						<a href="https://c-act.utem.edu.my/">Terms &amp; Conditions</a>
+						<a href="https://c-ted.utem.edu.my/">Terms &amp; Conditions</a>
 					</li>
 					<li>
-						<a href="https://c-act.utem.edu.my/">Advertise with us</a>
+						<a href="https://c-ted.utem.edu.my/">Advertise with us</a>
 					</li>
 					<li>
-						<a href="https://c-act.utem.edu.my/">Partner with us</a>
+						<a href="https://c-ted.utem.edu.my/">Partner with us</a>
 					</li>
 					<li>
-						<a href="https://c-act.utem.edu.my/">Sell On Microless</a>
+						<a href="https://c-ted.utem.edu.my/">Sell On Microless</a>
 					</li>
 				</ul>
 			</div>
@@ -3595,9 +3596,9 @@ document.addEventListener("DOMContentLoaded", function(){
 		<div class="footer-apps">
 			<div class="footer-heading">DOWNLOAD OUR APP</div>
 			<div class="footer-btn-app-download">
-				<a href="https://c-act.utem.edu.my/" target="_blank"><img src="https://global.microless.com/assets/img/app-store-en.png" alt="Download microless ios app"/></a>
-				<a href="https://c-act.utem.edu.my/" target="_blank"><img src="https://global.microless.com/assets/img/app-google-play-en.png" alt="Download microless android app"/></a>
-				<a href="https://c-act.utem.edu.my/" target="_blank"><img src="https://global.microless.com/assets/img/app-gallery-en.png" alt="Download microless huawei app"/></a>
+				<a href="https://c-ted.utem.edu.my/" target="_blank"><img src="https://global.microless.com/assets/img/app-store-en.png" alt="Download microless ios app"/></a>
+				<a href="https://c-ted.utem.edu.my/" target="_blank"><img src="https://global.microless.com/assets/img/app-google-play-en.png" alt="Download microless android app"/></a>
+				<a href="https://c-ted.utem.edu.my/" target="_blank"><img src="https://global.microless.com/assets/img/app-gallery-en.png" alt="Download microless huawei app"/></a>
 			</div>
 		</div>
 	</div>
@@ -3632,13 +3633,13 @@ document.addEventListener("DOMContentLoaded", function(){
 					 Connect With Us:
 					<ul>
 						<li>
-							<a href="https://c-act.utem.edu.my/" class="ins" target="_blank" rel="nofollow noopener noreferrer" title="@microlessuae"><i class="fa fa-instagram fa-fw"></i></a>
+							<a href="https://c-ted.utem.edu.my/" class="ins" target="_blank" rel="nofollow noopener noreferrer" title="@microlessuae"><i class="fa fa-instagram fa-fw"></i></a>
 						</li>
 						<li>
-							<a href="https://c-act.utem.edu.my/" class="fb" target="_blank" rel="nofollow noopener noreferrer" title="fb.com/microlessuae"><i class="fa fa-facebook fa-fw"></i></a>
+							<a href="https://c-ted.utem.edu.my/" class="fb" target="_blank" rel="nofollow noopener noreferrer" title="fb.com/microlessuae"><i class="fa fa-facebook fa-fw"></i></a>
 						</li>
 						<li>
-							<a href="https://c-act.utem.edu.my/" class="fb" target="_blank" rel="nofollow noopener noreferrer" title="tiktok.com/@microlessuae"><img src="https://uae.microless.com/cdn/microless-tiktok.png" alt="Microless TikTok"></a>
+							<a href="https://c-ted.utem.edu.my/" class="fb" target="_blank" rel="nofollow noopener noreferrer" title="tiktok.com/@microlessuae"><img src="https://uae.microless.com/cdn/microless-tiktok.png" alt="Microless TikTok"></a>
 						</li>
 						<!--
     <li>
