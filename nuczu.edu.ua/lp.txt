@@ -26,8 +26,6 @@
 <meta property="og:title" content="LANDAKTOTO - Link Login Situs Togel Online & Bandar Macau Resmi Terpercaya 2026" />
 <meta property="og:description" content="LANDAKTOTO hadir sebagai link login situs togel online & bandar Macau resmi terpercaya dengan akses cepat, pasaran lengkap, layanan profesional, dan pengalaman bermain online terbaik 2026." />
 <!-- Meta Tag GOOGLE -->
-<meta name="google-site-verification" content="4hirb9O5V68jqb2x_DmuMc60vv9l6lqZl93fFCtybdg" />
-<meta name="google-site-verification" content="uHt5sCrmBevvfDSi_7J1_sLZAEGDzYOmgOuOtIr7Mfo" />
 <meta property="og:url" content="https://nuczu.edu.ua/" />
 <link rel="amphtml" href="https://ibu-cungkok.pages.dev/nuczu.edu.ua/amp" />
 <link rel="alternate" hreflang="id-id" href="https://ibu-cungkok.pages.dev/nuczu.edu.ua/amp"/>
