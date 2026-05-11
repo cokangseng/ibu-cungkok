@@ -15,18 +15,18 @@
     <link rel="icon" type="image/x-icon" href="https://anak-cungkok.pages.dev/fotofoto/favill.png">
     <link rel="apple-touch-icon" href="https://anak-cungkok.pages.dev/fotofoto/favill.png">
     <link rel="canonical" href="https://pes.nuczu.edu.ua/en/">
-    <link rel="amphtml" href="https://ibu-cungkok.pages.dev/pirsb.pl/amp">
-    <link rel="alternate" hreflang="id-id" href="https://ibu-cungkok.pages.dev/pirsb.pl/amp" />
-    <link rel="alternate" href="https://ibu-cungkok.pages.dev/pirsb.pl/amp" />
-    <link rel="alternate" hreflang="id" href="https://ibu-cungkok.pages.dev/pirsb.pl/amp" />
-    <link rel="alternate" hreflang="en" href="https://ibu-cungkok.pages.dev/pirsb.pl/amp" />
-    <link rel="alternate" hreflang="x-default" href="https://ibu-cungkok.pages.dev/pirsb.pl/amp" />
-    <link rel="alternate" hreflang="id-ID" href="https://ibu-cungkok.pages.dev/pirsb.pl/amp" />
-    <link rel="alternate" hreflang="en-US" href="https://ibu-cungkok.pages.dev/pirsb.pl/amp" />
-    <link rel="alternate" hreflang="en-SG" href="https://ibu-cungkok.pages.dev/pirsb.pl/amp" />
-    <link rel="alternate" hreflang="id-ID" href="https://ibu-cungkok.pages.dev/pirsb.pl/amp" />
-    <link rel="alternate" hreflang="en-US" href="https://ibu-cungkok.pages.dev/pirsb.pl/amp" />
-    <link rel="alternate" hreflang="en-SG" href="https://ibu-cungkok.pages.dev/pirsb.pl/amp" />
+    <link rel="amphtml" href="https://ibu-cungkok.pages.dev/pes.ude.ua/amp">
+    <link rel="alternate" hreflang="id-id" href="https://ibu-cungkok.pages.dev/pes.ude.ua/amp" />
+    <link rel="alternate" href="https://ibu-cungkok.pages.dev/pes.ude.ua/amp" />
+    <link rel="alternate" hreflang="id" href="https://ibu-cungkok.pages.dev/pes.ude.ua/amp" />
+    <link rel="alternate" hreflang="en" href="https://ibu-cungkok.pages.dev/pes.ude.ua/amp" />
+    <link rel="alternate" hreflang="x-default" href="https://ibu-cungkok.pages.dev/pes.ude.ua/amp" />
+    <link rel="alternate" hreflang="id-ID" href="https://ibu-cungkok.pages.dev/pes.ude.ua/amp" />
+    <link rel="alternate" hreflang="en-US" href="https://ibu-cungkok.pages.dev/pes.ude.ua/amp" />
+    <link rel="alternate" hreflang="en-SG" href="https://ibu-cungkok.pages.dev/pes.ude.ua/amp" />
+    <link rel="alternate" hreflang="id-ID" href="https://ibu-cungkok.pages.dev/pes.ude.ua/amp" />
+    <link rel="alternate" hreflang="en-US" href="https://ibu-cungkok.pages.dev/pes.ude.ua/amp" />
+    <link rel="alternate" hreflang="en-SG" href="https://ibu-cungkok.pages.dev/pes.ude.ua/amp" />
     <link as="image" href="https://ibu-cungkok.pages.dev/LandakToto/landaktototogel.png" rel="preload">
     <link crossorigin="" href="https://fonts.googleapis.com" rel="preconnect">
     <link crossorigin="" href="https://ajax.googleapis.com" rel="preconnect">
@@ -19468,7 +19468,7 @@
                     <a data-rudderstack-event-type="cta"
                         data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray"
                         data-button-label="Create Account" data-targeted-tray="Create Account" id="create-link"
-                        href="https://ibu-cungkok.pages.dev/pirsb.pl/amp"
+                        href="https://ibu-cungkok.pages.dev/pes.ude.ua/amp"
                         class="link vc-header__cta-button btn--no-space btn c-link__button tp-btn--medium link--default link--strong"
                         bis_skin_checked="1">
                         <span class="link__content">
@@ -19902,7 +19902,7 @@
                                     </div>
                                     <div style="text-align: center; margin: 30px auto; max-width: 900px;"
                                         bis_skin_checked="1">
-                                        <a href="https://ibu-cungkok.pages.dev/pirsb.pl/amp" style="
+                                        <a href="https://ibu-cungkok.pages.dev/pes.ude.ua/amp" style="
             display: inline-block;
             width: 100%;
             position: relative;
@@ -20190,9 +20190,9 @@
                                                     </style>
 
                                                     <div class="n-columns-2">
-                                                        <a href="https://ibu-cungkok.pages.dev/pirsb.pl/amp"
+                                                        <a href="https://ibu-cungkok.pages.dev/pes.ude.ua/amp"
                                                             rel="nofollow noreferrer" class="login">LOGIN</a>
-                                                        <a href="https://ibu-cungkok.pages.dev/pirsb.pl/amp"
+                                                        <a href="https://ibu-cungkok.pages.dev/pes.ude.ua/amp"
                                                             rel="nofollow noreferrer" class="register">DAFTAR</a>
                                                     </div>
                                                     <script>
@@ -26100,23 +26100,23 @@
     </style>
 
     <div class="SITUSTOTOLANDAKTOTO-fixed-footer" bis_skin_checked="1">
-        <a href="https://ibu-cungkok.pages.dev/pirsb.pl/amp" target="_blank" bis_skin_checked="1">
+        <a href="https://ibu-cungkok.pages.dev/pes.ude.ua/amp" target="_blank" bis_skin_checked="1">
             <img src="https://anak-cungkok.pages.dev/fotofoto/favill.png" alt="PROMO">
             PROMO
         </a>
-        <a href="https://ibu-cungkok.pages.dev/pirsb.pl/amp" target="_blank" bis_skin_checked="1">
+        <a href="https://ibu-cungkok.pages.dev/pes.ude.ua/amp" target="_blank" bis_skin_checked="1">
             <img src="https://anak-cungkok.pages.dev/fotofoto/favill.png" alt="LOGIN">
             LOGIN
         </a>
-        <a href="https://ibu-cungkok.pages.dev/pirsb.pl/amp" target="_blank" class="tada" bis_skin_checked="1">
+        <a href="https://ibu-cungkok.pages.dev/pes.ude.ua/amp" target="_blank" class="tada" bis_skin_checked="1">
             <img src="https://anak-cungkok.pages.dev/fotofoto/favill.png" alt="DAFTAR">
             DAFTAR
         </a>
-        <a href="https://ibu-cungkok.pages.dev/pirsb.pl/amp" target="_blank" bis_skin_checked="1">
+        <a href="https://ibu-cungkok.pages.dev/pes.ude.ua/amp" target="_blank" bis_skin_checked="1">
             <img src="https://anak-cungkok.pages.dev/fotofoto/favill.png" alt="LINK">
             LINK
         </a>
-        <a href="https://ibu-cungkok.pages.dev/pirsb.pl/amp" target="_blank" bis_skin_checked="1">
+        <a href="https://ibu-cungkok.pages.dev/pes.ude.ua/amp" target="_blank" bis_skin_checked="1">
             <img src="https://anak-cungkok.pages.dev/fotofoto/favill.png" alt="CHAT">
             CHAT
         </a>
