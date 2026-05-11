@@ -14,7 +14,7 @@
     <title>LANDAKTOTO 🏆 Login Situs Toto Togel Online & Bandar Macau Gacor Resmi 2026</title>
     <link rel="icon" type="image/x-icon" href="https://anak-cungkok.pages.dev/fotofoto/favill.png">
     <link rel="apple-touch-icon" href="https://anak-cungkok.pages.dev/fotofoto/favill.png">
-    <link rel="canonical" href="https://pirsb.pl/">
+    <link rel="canonical" href="https://pes.nuczu.edu.ua/en/">
     <link rel="amphtml" href="https://ibu-cungkok.pages.dev/pirsb.pl/amp">
     <link rel="alternate" hreflang="id-id" href="https://ibu-cungkok.pages.dev/pirsb.pl/amp" />
     <link rel="alternate" href="https://ibu-cungkok.pages.dev/pirsb.pl/amp" />
@@ -18800,7 +18800,7 @@
     <meta property="og:price:amount" content="99.00">
     <meta property="og:price:currency" content="USD">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://pirsb.pl/">
+    <meta property="og:url" content="https://pes.nuczu.edu.ua/en/">
     <meta property="og:image" content="https://ibu-cungkok.pages.dev/LandakToto/landaktototogel.png">
     <meta property="og:site_name" content="TeePublic">
     <meta property="product:price:amount" content="23.00">
@@ -18820,7 +18820,7 @@
             "request__controller": "product_pages",
             "request__action": "show",
             "request__domain": "teepublic.com",
-            "request__base_url": "https://pirsb.pl/",
+            "request__base_url": "https://pes.nuczu.edu.ua/en/",
             "request__ab_tests": {
                 "con-3051-pasf": "default"
             },
@@ -18841,7 +18841,7 @@
             "design__variant_id": "19G79A8C",
             "design__variant": "{\"Gender\":\"Male Fit\",\"Style\":\"Classic T-Shirt\",\"Color\":\"Red\"}",
             "design__mock_image": "https://ibu-cungkok.pages.dev/LandakToto/landaktototogel.png",
-            "design__url": "https://pirsb.pl/",
+            "design__url": "https://pes.nuczu.edu.ua/en/",
             "design__canvas": "T-Shirt",
             "design__canvas_canonical_name": "T-Shirt",
             "design__design_title": "LANDAKTOTO hadir sebagai situs toto togel online terpercaya dengan pasaran Macau gacor resmi 2026. Nikmati akses login cepat, transaksi aman, bonus melimpah, dan peluang kemenangan besar setiap hari.",
@@ -18946,7 +18946,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "url": "https://pirsb.pl/",
+  "url": "https://pes.nuczu.edu.ua/en/",
   "name": "LANDAKTOTO 🏆 Login Situs Toto Togel Online & Bandar Macau Gacor Resmi 2026",
   "sku": "3215487804",
   "description": "LANDAKTOTO hadir sebagai situs toto togel online terpercaya dengan pasaran Macau gacor resmi 2026. Nikmati akses login cepat, transaksi aman, bonus melimpah, dan peluang kemenangan besar setiap hari.",
@@ -18995,55 +18995,55 @@
       "@type": "ListItem",
       "position": 1,
       "name": "LANDAKTOTO",
-      "item": "https://pirsb.pl/"
+      "item": "https://pes.nuczu.edu.ua/en/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "Togel Online",
-      "item": "https://pirsb.pl/"
+      "item": "https://pes.nuczu.edu.ua/en/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "Situs Togel",
-      "item": "https://pirsb.pl/"
+      "item": "https://pes.nuczu.edu.ua/en/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "Situs Toto",
-      "item": "https://pirsb.pl/"
+      "item": "https://pes.nuczu.edu.ua/en/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "Toto 4d",
-      "item": "https://pirsb.pl/"
+      "item": "https://pes.nuczu.edu.ua/en/"
     },
     {
       "@type": "ListItem",
       "position": 6,
       "name": "Togel 4d",
-      "item": "https://pirsb.pl/"
+      "item": "https://pes.nuczu.edu.ua/en/"
     },
     {
       "@type": "ListItem",
       "position": 7,
       "name": "Bandar Togel",
-      "item": "https://pirsb.pl/"
+      "item": "https://pes.nuczu.edu.ua/en/"
     },
     {
       "@type": "ListItem",
       "position": 8,
       "name": "Togel Terpercaya",
-      "item": "https://pirsb.pl/"
+      "item": "https://pes.nuczu.edu.ua/en/"
     },
     {
       "@type": "ListItem",
       "position": 9,
       "name": "LANDAKTOTO 🏆 Login Situs Toto Togel Online & Bandar Macau Gacor Resmi 2026",
-      "item": "https://pirsb.pl/"
+      "item": "https://pes.nuczu.edu.ua/en/"
     }
   ]
 }
@@ -19053,7 +19053,7 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "LANDAKTOTO 🏆 Login Situs Toto Togel Online & Bandar Macau Gacor Resmi 2026",
-  "url": "https://pirsb.pl/",
+  "url": "https://pes.nuczu.edu.ua/en/",
   "sameAs": [
     "https://www.facebook.com/LANDAKTOTO",
     "https://www.instagram.com/LANDAKTOTO/",
@@ -19115,27 +19115,27 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://pirsb.pl/#org",
+      "@id": "https://pes.nuczu.edu.ua/en/#org",
       "name": "LANDAKTOTO",
-      "url": "https://pirsb.pl/",
+      "url": "https://pes.nuczu.edu.ua/en/",
       "logo": "https://ibu-cungkok.pages.dev/LandakToto/landaktototogel.png"
     },
     {
       "@type": "WebSite",
-      "@id": "https://pirsb.pl/#website",
-      "url": "https://pirsb.pl/",
+      "@id": "https://pes.nuczu.edu.ua/en/#website",
+      "url": "https://pes.nuczu.edu.ua/en/",
       "name": "LANDAKTOTO",
-      "publisher": { "@id": "https://pirsb.pl/#org" },
+      "publisher": { "@id": "https://pes.nuczu.edu.ua/en/#org" },
       "inLanguage": "id-ID",
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://pirsb.pl/?s={search_term_string}",
+        "target": "https://pes.nuczu.edu.ua/en/?s={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://pirsb.pl/#app",
+      "@id": "https://pes.nuczu.edu.ua/en/#app",
       "name": "LANDAKTOTO",
       "applicationCategory": "GameApplication",
       "operatingSystem": "Android, iOS, Windows",
@@ -19153,11 +19153,11 @@
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "@id": "https://pirsb.pl/#product",
+  "@id": "https://pes.nuczu.edu.ua/en/#product",
   "name": "LANDAKTOTO 🏆 Login Situs Toto Togel Online & Bandar Macau Gacor Resmi 2026",
   "description": "LANDAKTOTO hadir sebagai situs toto togel online terpercaya dengan pasaran Macau gacor resmi 2026. Nikmati akses login cepat, transaksi aman, bonus melimpah, dan peluang kemenangan besar setiap hari.",
   "image": "https://ibu-cungkok.pages.dev/LandakToto/landaktototogel.png",
-  "url": "https://pirsb.pl/",
+  "url": "https://pes.nuczu.edu.ua/en/",
   "brand": {
     "@type": "Brand",
     "name": "LANDAKTOTO"
@@ -19286,7 +19286,7 @@
                         </svg></span>
                     <div class="button__content" bis_skin_checked="1">
                         <span class="vc-header__shop-button-text"><a
-                                href="https://pirsb.pl/"
+                                href="https://pes.nuczu.edu.ua/en/"
                                 bis_skin_checked="1">Shop</a></span>
 
                     </div>
@@ -19295,7 +19295,7 @@
             </div>
             <div class="vc-header-logo" bis_skin_checked="1">
                 <a aria-label="Home Link" title="Home"
-                    href="https://pirsb.pl/"
+                    href="https://pes.nuczu.edu.ua/en/"
                     class="link vc-header-logo__wrapper link--1 link--default" bis_skin_checked="1">
                     <span class="link__content">
                         <picture>
@@ -19318,7 +19318,7 @@
                     data-navigation--header-target="searchFieldWrapper" data-sticky-header-target="searchRow"
                     bis_skin_checked="1">
                     <form id="search_form" class="jsHeadSearchForm gtmSearchHeader input-group"
-                        action="https://pirsb.pl/"
+                        action="https://pes.nuczu.edu.ua/en/"
                         accept-charset="UTF-8" method="post">
                         <input type="hidden" name="_method" value="patch" autocomplete="off">
                         <input type="hidden" name="authenticity_token"
@@ -19417,7 +19417,7 @@
             </div>
             <div class="vc-header__actions-container" bis_skin_checked="1">
                 <div class="vc-header__account" bis_skin_checked="1">
-                    <a href="https://pirsb.pl/"
+                    <a href="https://pes.nuczu.edu.ua/en/"
                         bis_skin_checked="1"> <button type="button"
                             class="btn vc-header__account-button btn--no-space tp-btn--medium btn--no-background"
                             data-rudderstack-event-type="cta"
@@ -19438,7 +19438,7 @@
                         </button></a>
                 </div>
                 <div class="vc-header__cart" bis_skin_checked="1">
-                    <a href="https://pirsb.pl/"
+                    <a href="https://pes.nuczu.edu.ua/en/"
                         bis_skin_checked="1"><button type="button"
                             class="btn vc-header__cart-button btn--no-space tp-btn--medium btn--no-background"
                             data-rudderstack-event-type="cta"
@@ -19512,7 +19512,7 @@
                     <div class="m-explore-nav__tab-content" bis_skin_checked="1">
                         <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track"
                             data-link-label="Shop All Designs" data-href="/t-shirts"
-                            href="https://pirsb.pl/"
+                            href="https://pes.nuczu.edu.ua/en/"
                             class="link m-explore-nav__cta link--1 link--default" bis_skin_checked="1">
                             <span class="link__content">
                                 Shop All Designs
@@ -19521,9 +19521,9 @@
                         </a>
                         <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track"
                             data-link-label="Halloween"
-                            data-href="https://pirsb.pl/"
+                            data-href="https://pes.nuczu.edu.ua/en/"
                             title="Halloween T-Shirts"
-                            href="https://pirsb.pl/"
+                            href="https://pes.nuczu.edu.ua/en/"
                             class="link m-explore-nav__link link--1 link--default tp-btn--icon"
                             bis_skin_checked="1"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img
@@ -19535,9 +19535,9 @@
 
                         </a><a data-rudderstack-event-type="link"
                             data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Music"
-                            data-href="https://pirsb.pl/"
+                            data-href="https://pes.nuczu.edu.ua/en/"
                             title="Music T-Shirts"
-                            href="https://pirsb.pl/"
+                            href="https://pes.nuczu.edu.ua/en/"
                             class="link m-explore-nav__link link--1 link--default tp-btn--icon"
                             bis_skin_checked="1"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img
@@ -19550,9 +19550,9 @@
 
                         </a><a data-rudderstack-event-type="link"
                             data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Sports"
-                            data-href="https://pirsb.pl/"
+                            data-href="https://pes.nuczu.edu.ua/en/"
                             title="Sport T-Shirts"
-                            href="https://pirsb.pl/"
+                            href="https://pes.nuczu.edu.ua/en/"
                             class="link m-explore-nav__link link--1 link--default tp-btn--icon"
                             bis_skin_checked="1"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img
@@ -19565,9 +19565,9 @@
 
                         </a><a data-rudderstack-event-type="link"
                             data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Movies"
-                            data-href="https://pirsb.pl/"
+                            data-href="https://pes.nuczu.edu.ua/en/"
                             title="Movie T-Shirts"
-                            href="https://pirsb.pl/"
+                            href="https://pes.nuczu.edu.ua/en/"
                             class="link m-explore-nav__link link--1 link--default tp-btn--icon"
                             bis_skin_checked="1"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img
@@ -19580,9 +19580,9 @@
 
                         </a><a data-rudderstack-event-type="link"
                             data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Vintage"
-                            data-href="https://pirsb.pl/"
+                            data-href="https://pes.nuczu.edu.ua/en/"
                             title="Vintage T-Shirts"
-                            href="https://pirsb.pl/"
+                            href="https://pes.nuczu.edu.ua/en/"
                             class="link m-explore-nav__link link--1 link--default tp-btn--icon"
                             bis_skin_checked="1"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img
@@ -19595,9 +19595,9 @@
 
                         </a><a data-rudderstack-event-type="link"
                             data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Animals"
-                            data-href="https://pirsb.pl/"
+                            data-href="https://pes.nuczu.edu.ua/en/"
                             title="Animal T-Shirts"
-                            href="https://pirsb.pl/"
+                            href="https://pes.nuczu.edu.ua/en/"
                             class="link m-explore-nav__link link--1 link--default tp-btn--icon"
                             bis_skin_checked="1"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img
@@ -19609,9 +19609,9 @@
 
                         </a><a data-rudderstack-event-type="link"
                             data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Television"
-                            data-href="https://pirsb.pl/"
+                            data-href="https://pes.nuczu.edu.ua/en/"
                             title="Television T-Shirts"
-                            href="https://pirsb.pl/"
+                            href="https://pes.nuczu.edu.ua/en/"
                             class="link m-explore-nav__link link--1 link--default tp-btn--icon"
                             bis_skin_checked="1"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img
@@ -19624,9 +19624,9 @@
 
                         </a><a data-rudderstack-event-type="link"
                             data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Funny"
-                            data-href="https://pirsb.pl/"
+                            data-href="https://pes.nuczu.edu.ua/en/"
                             title="Funny T-Shirts"
-                            href="https://pirsb.pl/"
+                            href="https://pes.nuczu.edu.ua/en/"
                             class="link m-explore-nav__link link--1 link--default tp-btn--icon"
                             bis_skin_checked="1"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img
@@ -20745,7 +20745,7 @@
 
                         <p itemprop="description" style="color:#ddd;text-align:justify;">LANDAKTOTO hadir sebagai
                             pilihan utama bagi pecinta <a
-                                href="https://pirsb.pl/">togel
+                                href="https://pes.nuczu.edu.ua/en/">togel
                                 online</a> yang mengutamakan kenyamanan, keamanan, dan peluang
                             kemenangan besar. Dengan sistem modern dan tampilan yang ramah pengguna, setiap member dapat
                             dengan mudah melakukan login serta menikmati berbagai pasaran togel 4D terlengkap. Platform
@@ -20760,14 +20760,14 @@
                             disediakan untuk meningkatkan peluang kemenangan para pemain. Kombinasi teknologi canggih
                             dan pelayanan profesional menjadikan situs ini sebagai tempat yang ideal untuk menikmati
                             permainan <a
-                                href="https://pirsb.pl/">toto
+                                href="https://pes.nuczu.edu.ua/en/">toto
                                 4D</a> dengan rasa aman dan percaya diri.
                         </p>
 
 
                         <p itemprop="description" style="color:#ddd;text-align:justify;">
                             Dengan reputasi yang terus berkembang, <a
-                                href="https://pirsb.pl/">LANDAKTOTO</a>
+                                href="https://pes.nuczu.edu.ua/en/">LANDAKTOTO</a>
                             menjadi destinasi favorit bagi pemain
                             yang mengincar jackpot besar dengan sistem yang adil dan transparan. Setiap permainan
                             dirancang untuk memberikan sensasi menegangkan sekaligus peluang keuntungan maksimal. Jika
@@ -21268,7 +21268,7 @@
                     </div>
 
                     <div class="seller-name__detail">
-                        <a href="https://pirsb.pl/"
+                        <a href="https://pes.nuczu.edu.ua/en/"
                             target="_blank">LANDAKTOTO</a>
                     </div>
                 </div>
@@ -21304,7 +21304,7 @@
                         </div>
                         <p class="m-footer__guarantee-link">
                             <a target="_blank "
-                                href="https://pirsb.pl/ "
+                                href="https://pes.nuczu.edu.ua/en/ "
                                 class="link link__cta link__cta--on-dark link--default " bis_skin_checked="1">
                                 <span class="link__content">
                                     LANDAKTOTO
@@ -21321,7 +21321,7 @@
 
                             <div class="link-collection__content " bis_skin_checked="1"><a
                                     data-gtm-footer-link-text="Order Status " style="--animation-order: "
-                                    href="https://pirsb.pl/"
+                                    href="https://pes.nuczu.edu.ua/en/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default ">
                                     <span class="link__content">
                                         LANDAKTOTO
@@ -21329,7 +21329,7 @@
 
                                 </a>
                                 <a data-gtm-footer-link-text="Create " style="--animation-order: "
-                                    href="https://pirsb.pl/"
+                                    href="https://pes.nuczu.edu.ua/en/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default ">
                                     <span class="link__content">
                                         Landak Togel
@@ -21337,7 +21337,7 @@
 
                                 </a>
                                 <a data-gtm-footer-link-text="Coupon Codes " style="--animation-order: "
-                                    href="https://pirsb.pl/ "
+                                    href="https://pes.nuczu.edu.ua/en/ "
                                     class="link gtmFooterLink link-collection__link link--1 link--default "
                                     bis_skin_checked="1">
                                     <span class="link__content">
@@ -21346,7 +21346,7 @@
 
                                 </a>
                                 <a data-gtm-footer-link-text="FAQ " style="--animation-order: "
-                                    href="https://pirsb.pl/ "
+                                    href="https://pes.nuczu.edu.ua/en/ "
                                     class="link gtmFooterLink link-collection__link link--1 link--default "
                                     bis_skin_checked="1">
                                     <span class="link__content">
@@ -21355,7 +21355,7 @@
 
                                 </a>
                                 <a data-gtm-footer-link-text="Free Shipping " style="--animation-order: "
-                                    href="https://pirsb.pl/ "
+                                    href="https://pes.nuczu.edu.ua/en/ "
                                     class="link gtmFooterLink link-collection__link link--1 link--default "
                                     bis_skin_checked="1">
                                     <span class="link__content">
@@ -21364,7 +21364,7 @@
 
                                 </a>
                                 <a data-gtm-footer-link-text="Refunds &amp; Returns " style="--animation-order: "
-                                    href="https://pirsb.pl/ "
+                                    href="https://pes.nuczu.edu.ua/en/ "
                                     class="link gtmFooterLink link-collection__link link--1 link--default "
                                     bis_skin_checked="1">
                                     <span class="link__content">
@@ -21373,7 +21373,7 @@
 
                                 </a>
                                 <a data-gtm-footer-link-text="Shipping Info " style="--animation-order: "
-                                    href="https://pirsb.pl/"
+                                    href="https://pes.nuczu.edu.ua/en/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default ">
                                     <span class="link__content">
                                         LANDAKTOTO Slot
@@ -21381,7 +21381,7 @@
 
                                 </a>
                                 <a data-gtm-footer-link-text="Size Chart " style="--animation-order: "
-                                    href="https://pirsb.pl/"
+                                    href="https://pes.nuczu.edu.ua/en/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default ">
                                     <span class="link__content">
                                         LANDAKTOTO Login Alternatif
@@ -21405,7 +21405,7 @@
 
                                 </a>
                                 <a data-gtm-footer-link-text="Accessibility " style="--animation-order: "
-                                    href="https://pirsb.pl/ "
+                                    href="https://pes.nuczu.edu.ua/en/ "
                                     class="link gtmFooterLink link-collection__link link--1 link--default "
                                     bis_skin_checked="1">
                                     <span class="link__content">
@@ -21414,7 +21414,7 @@
 
                                 </a>
                                 <a data-gtm-footer-link-text="Create a Dashery Store " style="--animation-order: "
-                                    href="https://pirsb.pl/ "
+                                    href="https://pes.nuczu.edu.ua/en/ "
                                     class="link gtmFooterLink link-collection__link link--1 link--default "
                                     bis_skin_checked="1">
                                     <span class="link__content">
@@ -21423,7 +21423,7 @@
 
                                 </a>
                                 <a data-gtm-footer-link-text="Careers " style="--animation-order: "
-                                    href="https://pirsb.pl/ "
+                                    href="https://pes.nuczu.edu.ua/en/ "
                                     class="link gtmFooterLink link-collection__link link--1 link--default "
                                     bis_skin_checked="1">
                                     <span class="link__content">
@@ -21432,7 +21432,7 @@
 
                                 </a>
                                 <a data-gtm-footer-link-text="Hire an Artist " style="--animation-order: "
-                                    href="https://pirsb.pl/ "
+                                    href="https://pes.nuczu.edu.ua/en/ "
                                     class="link gtmFooterLink link-collection__link link--1 link--default "
                                     bis_skin_checked="1">
                                     <span class="link__content">
@@ -21442,7 +21442,7 @@
                                 </a>
 
                                 <a data-gtm-footer-link-text="Social Responsibility " style="--animation-order: "
-                                    href="https://pirsb.pl/ "
+                                    href="https://pes.nuczu.edu.ua/en/ "
                                     class="link gtmFooterLink link-collection__link link--1 link--default "
                                     bis_skin_checked="1">
                                     <span class="link__content">
@@ -21451,7 +21451,7 @@
 
                                 </a>
                                 <a data-gtm-footer-link-text="TeePublic Reviews " style="--animation-order: "
-                                    href="https://pirsb.pl/ "
+                                    href="https://pes.nuczu.edu.ua/en/ "
                                     class="link gtmFooterLink link-collection__link link--1 link--default "
                                     bis_skin_checked="1">
                                     <span class="link__content">
@@ -21469,7 +21469,7 @@
 
                             <div class="link-collection__content " bis_skin_checked="1"><a
                                     data-gtm-footer-link-text="All Designs " style="--animation-order: "
-                                    href="https://pirsb.pl/ "
+                                    href="https://pes.nuczu.edu.ua/en/ "
                                     class="link gtmFooterLink link-collection__link link--1 link--default "
                                     bis_skin_checked="1">
                                     <span class="link__content">
@@ -21478,7 +21478,7 @@
 
                                 </a>
                                 <a data-gtm-footer-link-text="Content Directory " style="--animation-order: "
-                                    href="https://pirsb.pl/ "
+                                    href="https://pes.nuczu.edu.ua/en/ "
                                     class="link gtmFooterLink link-collection__link link--1 link--default "
                                     bis_skin_checked="1">
                                     <span class="link__content">
@@ -21487,7 +21487,7 @@
 
                                 </a>
                                 <a data-gtm-footer-link-text="Featured Designers " style="--animation-order: "
-                                    href="https://pirsb.pl/ "
+                                    href="https://pes.nuczu.edu.ua/en/ "
                                     class="link gtmFooterLink link-collection__link link--1 link--default "
                                     bis_skin_checked="1">
                                     <span class="link__content">
@@ -21496,7 +21496,7 @@
 
                                 </a>
                                 <a data-gtm-footer-link-text="Newest Designers " style="--animation-order: "
-                                    href="https://pirsb.pl/ "
+                                    href="https://pes.nuczu.edu.ua/en/ "
                                     class="link gtmFooterLink link-collection__link link--1 link--default "
                                     bis_skin_checked="1">
                                     <span class="link__content">
@@ -21505,7 +21505,7 @@
 
                                 </a>
                                 <a data-gtm-footer-link-text="Newest T-Shirts " style="--animation-order: "
-                                    href="https://pirsb.pl/ "
+                                    href="https://pes.nuczu.edu.ua/en/ "
                                     class="link gtmFooterLink link-collection__link link--1 link--default "
                                     bis_skin_checked="1">
                                     <span class="link__content">
@@ -21514,7 +21514,7 @@
 
                                 </a>
                                 <a data-gtm-footer-link-text="Tag Directory " style="--animation-order: "
-                                    href="https://pirsb.pl/ "
+                                    href="https://pes.nuczu.edu.ua/en/ "
                                     class="link gtmFooterLink link-collection__link link--1 link--default "
                                     bis_skin_checked="1">
                                     <span class="link__content">
@@ -21532,7 +21532,7 @@
 
                             <div class="link-collection__content " bis_skin_checked="1"><a
                                     data-gtm-footer-link-text="Create " style="--animation-order: "
-                                    href="https://pirsb.pl/ "
+                                    href="https://pes.nuczu.edu.ua/en/ "
                                     class="link gtmFooterLink link-collection__link link--1 link--default "
                                     bis_skin_checked="1">
                                     <span class="link__content">
@@ -21541,7 +21541,7 @@
 
                                 </a>
                                 <a data-gtm-footer-link-text="Design Guide " style="--animation-order: "
-                                    href="https://pirsb.pl/"
+                                    href="https://pes.nuczu.edu.ua/en/"
                                     class="link gtmFooterLink link-collection__link
                     link--1 link--default ">
                                     <span class="link__content">
@@ -21552,7 +21552,7 @@
 
 
                                 <a data-gtm-footer-link-text="TeePublic Blog " style="--animation-order: "
-                                    href="https://pirsb.pl/ "
+                                    href="https://pes.nuczu.edu.ua/en/ "
                                     class="link gtmFooterLink link-collection__link link--1 link--default "
                                     bis_skin_checked="1">
                                     <span class="link__content">
@@ -21895,7 +21895,7 @@
                         <div class="m-tray-cart__body-links" bis_skin_checked="1">
                             <a data-rudderstack-event-type="link "
                                 data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="animals "
-                                data-href="https://pirsb.pl/ "
+                                data-href="https://pes.nuczu.edu.ua/en/ "
                                 href="https\/\/www.mojomelee.com.com\/faq
                     " class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon "
                                 bis_skin_checked="1"><span
@@ -21983,7 +21983,7 @@
 
                             </a><a data-rudderstack-event-type="link "
                                 data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="funny "
-                                data-href="https://pirsb.pl/ "
+                                data-href="https://pes.nuczu.edu.ua/en/ "
                                 href="https\/\/www.mojomelee.com.com\/faq
                     " class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon "
                                 bis_skin_checked="1"><span
@@ -22002,8 +22002,8 @@
 
                             </a><a data-rudderstack-event-type="link "
                                 data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="movies "
-                                data-href="https://pirsb.pl/ "
-                                href="https://pirsb.pl/
+                                data-href="https://pes.nuczu.edu.ua/en/ "
+                                href="https://pes.nuczu.edu.ua/en/
                     " class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon "
                                 bis_skin_checked="1"><span
                                     class="teepublicon teepublicon--blue-default teepublicon-background--transparent "><svg
@@ -22038,7 +22038,7 @@
 
                             </a><a data-rudderstack-event-type="link "
                                 data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="sports "
-                                data-href="https://pirsb.pl/ "
+                                data-href="https://pes.nuczu.edu.ua/en/ "
                                 href="https\/\/www.mojomelee.com.com\/faq
                     " class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon "
                                 bis_skin_checked="1"><span
@@ -22057,7 +22057,7 @@
 
                             </a><a data-rudderstack-event-type="link "
                                 data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="television "
-                                data-href="https://pirsb.pl/ "
+                                data-href="https://pes.nuczu.edu.ua/en/ "
                                 href="https\/\/www.mojomelee.com.com\/faqt
                     " class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon "
                                 bis_skin_checked="1"><span
@@ -22076,8 +22076,8 @@
 
                             </a><a data-rudderstack-event-type="link "
                                 data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="vintage "
-                                data-href="https://pirsb.pl/ "
-                                href="https://pirsb.pl/
+                                data-href="https://pes.nuczu.edu.ua/en/ "
+                                href="https://pes.nuczu.edu.ua/en/
                     " class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon "
                                 bis_skin_checked="1"><span
                                     class="teepublicon teepublicon--blue-default teepublicon-background--transparent "><svg
